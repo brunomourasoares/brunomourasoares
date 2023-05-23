@@ -2,8 +2,8 @@
 
 ### 🚀 Sobre mim
 #### Atualmente estou em transição de carreira, buscando uma nova oportunidade para crescer e melhorar profissionalmente, trabalhar em equipe e projetos desafiadores. Estou me esforçando ao máximo para aprender linguagens de programação.
-- 👩‍💻 Trabalho atualmente em outra área, mas o foco é trabalhar com Java BackEnd.
-- 🧠 Atualmente estudando ![springboot](https://img.shields.io/badge/SpringBoot-232323.svg?style=flat&logo=springboot&logoColor=#6DB33F)
+- 👩‍💻 Trabalho em outra área, mas o foco é trabalhar com Java BackEnd.
+- 🧠 Estudando ![springboot](https://img.shields.io/badge/SpringBoot-232323.svg?style=flat&logo=springboot&logoColor=#6DB33F) atualmente!
 
 ### 🛠 Habilidades
 ><div style="display: inline_block">IDE: 
@@ -30,7 +30,7 @@
   ><a href="https://gluonhq.com/products/scene-builder/"><img align="center" alt="Scene Builder" height="50" width="50" src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png"/></a>
   ><a href="https://www.postman.com/"><img align="center" alt="Postman" height="50" width="50" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"/></a>
   ><a href="https://www.docker.com/"><img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/></a>
-  ><a href="https//"><img align="center" alt="Git" height="50" width="50"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/>
+  ><a href="https://github.com/"><img align="center" alt="Git" height="50" width="50"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/>
 ></div>
 
 ### <img align="center" alt="Docker" height="20" width="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> Git Status
