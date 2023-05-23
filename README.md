@@ -33,14 +33,14 @@
   ><a href="https://github.com/"><img align="center" alt="Git" height="50" width="50"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/>
 ></div>
 
-### <img align="center" alt="Docker" height="20" width="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> Git Status
+### <img align="center" alt="Docker" height="20" width="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> GitHub Status
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=16&theme=algolia"/>
   <img height="150em" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif"/>
 </div>
   
-### 🔗 Socials
+### 🔗 Redes Sociais
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-moura-739a51274/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunomourasoares/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BMouraSoares)
