@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @brunomourasoares
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Olá, meu nome é Bruno Soares!
 
-<!---
-brunomourasoares/brunomourasoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Sobre mim
+#### Atualmente estou em transição de carreira, buscando uma nova oportunidade para crescer e melhorar profissionalmente, trabalhar em equipe e projetos desafiadores. Estou me esforçando ao máximo para aprender linguagens de programação, especificamente Java BackEnd.
+- 👩‍💻 Trabalho atualmente em outra area, mas o foco é trabalhar com BackEnd.
+- 🧠 Atualmente estudando ![springboot](https://img.shields.io/badge/SpringBoot-232323.svg?style=flat&logo=springboot&logoColor=#6DB33F)
+
+### 🛠 Habilidades
+><div style="display: inline_block">IDE: 
+  ><a href="https://www.eclipse.org/"><img align="center" alt="Eclipse" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"/></a>
+  ><a href="https://code.visualstudio.com/"><img align="center" alt="Visual Studio Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/></a>
+></div>
+
+><div style="display: inline_block">Plataforma: 
+  ><a href="https://www.oracle.com/br/java/"><img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></a>
+></div>
+
+><div style="display: inline_block">Tecnologias: 
+  ><a href="https://openjfx.io/"><img align="center" alt="JavaFX" height="50" width="50" src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2"/></a>
+  ><a href="https://spring.io/"><img align="center" alt="Spring Boot" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/></a>
+  ><a href="https://maven.apache.org/"><img align="center" alt="Maven" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/maven.svg"/></a>
+></div>
+
+><div style="display: inline_block">Banco de dados:
+  ><a href="https://dev.mysql.com/"><img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
+  ><a href="https://www.postgresql.org/"><img align="center" alt="Postgres" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/></a>
+></div>
+  
+><div style="display: inline_block">Ferramentas:
+  ><a href="https://gluonhq.com/products/scene-builder/"><img align="center" alt="Scene Builder" height="50" width="50" src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png"/></a>
+  ><a href="https://www.postman.com/"><img align="center" alt="Postman" height="50" width="50" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"/></a>
+  ><a href="https://www.docker.com/"><img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/></a>
+></div>
+### <img align="center" alt="Docker" height="20" width="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> Git Status
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="150em" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif"/>
+</div>
+  
+### 🔗 Socials
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-moura-739a51274/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunomourasoares/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BMouraSoares)
