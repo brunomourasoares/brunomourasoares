@@ -24,6 +24,7 @@
 ><div style="display: inline_block">Banco de dados:
   ><a href="https://dev.mysql.com/"><img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
   ><a href="https://www.postgresql.org/"><img align="center" alt="Postgres" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/></a>
+  ><a href="https://www.h2database.com/"><img align="center" alt="H2 Database" height="50" width="50" src="https://www.h2database.com/html/images/h2-logo-2.png"/></a>
 ></div>
   
 ><div style="display: inline_block">Ferramentas:
