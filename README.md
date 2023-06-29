@@ -19,6 +19,8 @@
   ><a href="https://openjfx.io/"><img align="center" alt="JavaFX" height="50" width="50" src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2"/></a>
   ><a href="https://spring.io/"><img align="center" alt="Spring Boot" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/></a>
   ><a href="https://maven.apache.org/"><img align="center" alt="Maven" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/maven.svg"/></a>
+  ><a href="https://gradle.org/"><img align="center" alt="Gradle" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/gradle.svg"/></a>
+  ><a href="https://site.mockito.org/"><img align="center" alt="Mockito + JUnit5" height="50" width="150" src="https://solidsoft.files.wordpress.com/2018/03/mockito-junit5-logo3.png"/></a>
 ></div>
 
 ><div style="display: inline_block">Banco de dados:
