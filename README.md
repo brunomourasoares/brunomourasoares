@@ -6,23 +6,23 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 
 ### 🛠 Habilidades:
 ><div style="display: inline_block">IDE: 
-  ><a href="https://www.eclipse.org/" title="Click to open Eclipse website"><img align="center" alt="Eclipse" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" /></a>
-  ><a href="https://code.visualstudio.com/" title="Click to open Visual Studio Code website"><img align="center" alt="Visual Studio Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></a>
+  ><a href="https://www.eclipse.org/" title="Click to open Eclipse website" target="_blank"><img align="center" alt="Eclipse" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" /></a>
+  ><a href="https://code.visualstudio.com/" title="Click to open Visual Studio Code website" target="_blank"><img align="center" alt="Visual Studio Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></a>
 ></div>
 
 ><div style="display: inline_block">Linguagens: 
-  ><a href="https://www.oracle.com/br/java/" title="Click to open Java website"><img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
-  ><a href="https://www.javascript.com/" title="Click to open JavaScript website"><img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" /></a>
-  ><a href="https://html.spec.whatwg.org/" title="Click to open HTML5 website"><img align="center" alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" /></a>
-  ><a href="https://www.w3.org/TR/css3-roadmap/" title="Click to open CSS3 website"><img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" /></a>
+  ><a href="https://www.oracle.com/br/java/" title="Click to open Java website" target="_blank"><img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+  ><a href="https://www.javascript.com/" title="Click to open JavaScript website" target="_blank"><img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" /></a>
+  ><a href="https://html.spec.whatwg.org/" title="Click to open HTML5 website" target="_blank"><img align="center" alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" /></a>
+  ><a href="https://www.w3.org/TR/css3-roadmap/" title="Click to open CSS3 website" target="_blank"><img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" /></a>
 ></div>
 
 ><div style="display: inline_block">Tecnologias / Frameworks: 
-  ><a href="https://openjfx.io/" title="Click to open JavaFX website"><img align="center" alt="JavaFX logo" height="50" width="50" src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2" /></a>
-  ><a href="https://spring.io/" title="Click to open Spring Framework website"><img align="center" alt="Spring Framework logo" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></a>
-  ><a href="https://maven.apache.org/" title="Click to open Maven website"><img align="center" alt="Maven logo" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/maven.svg" /></a>
-  ><a href="https://gradle.org/" title="Click to open Gradle website"><img align="center" alt="Gradle logo" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/gradle.svg" /></a>
-  ><a href="https://site.mockito.org/" title="Click to open Mockito website"><img align="center" alt="Mockito + JUnit5 logo" height="50" width="150" src="https://solidsoft.files.wordpress.com/2018/03/mockito-junit5-logo3.png" /></a>
+  ><a href="https://openjfx.io/" title="Click to open JavaFX website" target="_blank"><img align="center" alt="JavaFX logo" height="50" width="50" src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2" /></a>
+  ><a href="https://spring.io/" title="Click to open Spring Framework website" target="_blank"><img align="center" alt="Spring Framework logo" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></a>
+  ><a href="https://maven.apache.org/" title="Click to open Maven website" target="_blank"><img align="center" alt="Maven logo" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/maven.svg" /></a>
+  ><a href="https://gradle.org/" title="Click to open Gradle website" target="_blank"><img align="center" alt="Gradle logo" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/gradle.svg" /></a>
+  ><a href="https://site.mockito.org/" title="Click to open Mockito website" target="_blank"><img align="center" alt="Mockito + JUnit5 logo" height="50" width="150" src="https://solidsoft.files.wordpress.com/2018/03/mockito-junit5-logo3.png" /></a>
 ></div>
 
 ><div style="display: inline_block">Banco de dados:
