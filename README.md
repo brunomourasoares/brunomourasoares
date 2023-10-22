@@ -19,12 +19,12 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 ></div>
 
 ><div style="display: flex">Tecnologias / Frameworks: 
-  ><a href="https://openjfx.io/" title="Click to open JavaFX website" target="_blank"><img align="center" alt="JavaFX logo" height="50" width="50" src="" /></a>
-  ><a href="https://spring.io/" title="Click to open Spring Framework website" target="_blank"><img align="center" alt="Spring Framework logo" height="50" width="50" src="" /></a>
-  ><a href="https://maven.apache.org/" title="Click to open Maven website" target="_blank"><img align="center" alt="Maven logo" height="50" width="50" src="" /></a>
-  ><a href="https://gradle.org/" title="Click to open Gradle website" target="_blank"><img align="center" alt="Gradle logo" height="50" width="50" src="" /></a>
-  ><a href="https://site.mockito.org/" title="Click to open Mockito website" target="_blank"><img align="center" alt="Mockito + JUnit5 logo" height="50" width="150" src="" /></a>
-  ><a href="https://angular.io/" title="Click to open Angular website" target="_blank"><img align="center" alt="Angular" height="50" width="50" src="" /></a>
+  ><a href="https://openjfx.io/" title="Click to open JavaFX website" target="_blank"><img align="center" alt="JavaFX logo" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/javafx.png" /></a>
+  ><a href="https://spring.io/" title="Click to open Spring Framework website" target="_blank"><img align="center" alt="Spring Framework logo" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/spring.svg" /></a>
+  ><a href="https://maven.apache.org/" title="Click to open Maven website" target="_blank"><img align="center" alt="Maven logo" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/maven.svg" /></a>
+  ><a href="https://gradle.org/" title="Click to open Gradle website" target="_blank"><img align="center" alt="Gradle logo" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/gradle.svg" /></a>
+  ><a href="https://site.mockito.org/" title="Click to open Mockito website" target="_blank"><img align="center" alt="Mockito + JUnit5 logo" height="50" width="150" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/junit.png" /></a>
+  ><a href="https://angular.io/" title="Click to open Angular website" target="_blank"><img align="center" alt="Angular" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/angular.svg" /></a>
 ></div>
 
 ><div style="display: flex">Banco de dados:
