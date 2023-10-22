@@ -11,11 +11,11 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 ></div>
 
 ><div style="display: flex">Linguagens: 
-  ><a href="https://www.oracle.com/br/java/" title="Click to open Java website" target="_blank"><img align="center" alt="Java" height="50" width="50" src="" /></a>
-  ><a href="https://www.javascript.com/" title="Click to open JavaScript website" target="_blank"><img align="center" alt="JavaScript" height="50" width="50" src="" /></a>
-  ><a href="https://html.spec.whatwg.org/" title="Click to open HTML5 website" target="_blank"><img align="center" alt="HTML5" height="50" width="50" src="" /></a>
-  ><a href="https://www.w3.org/TR/css3-roadmap/" title="Click to open CSS3 website" target="_blank"><img align="center" alt="CSS3" height="50" width="50" src="" /></a>
-  ><a href="https://www.typescriptlang.org/" title="Click to open TypeScript website" target="_blank"><img align="center" alt="TypeScript" height="50" width="50" src="" /></a>
+  ><a href="https://www.oracle.com/br/java/" title="Click to open Java website" target="_blank"><img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/java.svg" /></a>
+  ><a href="https://www.javascript.com/" title="Click to open JavaScript website" target="_blank"><img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/javascript.svg" /></a>
+  ><a href="https://html.spec.whatwg.org/" title="Click to open HTML5 website" target="_blank"><img align="center" alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/html5.svg" /></a>
+  ><a href="https://www.w3.org/TR/css3-roadmap/" title="Click to open CSS3 website" target="_blank"><img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/css3.svg" /></a>
+  ><a href="https://www.typescriptlang.org/" title="Click to open TypeScript website" target="_blank"><img align="center" alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/typescript.svg" /></a>
 ></div>
 
 ><div style="display: flex">Tecnologias / Frameworks: 
@@ -33,7 +33,7 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
   ><a href="https://www.h2database.com/" title="Click to open H2 Database website" target="_blank"><img align="center" alt="H2 Database logo" height="50" width="50" src="https://www.h2database.com/html/images/h2-logo-2.png" /></a>
 ></div>
   
-><div style="display: inline_block">Ferramentas:
+><div style="display: flex">Ferramentas:
   ><a href="https://gluonhq.com/products/scene-builder/" title="Click to open SceneBuilder website" target="_blank"><img align="center" alt="Scene Builder" height="50" width="50" src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png" /></a>
   ><a href="https://www.postman.com/" title="Click to open Postman website" target="_blank"><img align="center" alt="Postman logo" height="50" width="50" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" /></a>
   ><a href="https://www.docker.com/" title="Click to open Docker website" target="_blank"><img align="center" alt="Docker logo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
