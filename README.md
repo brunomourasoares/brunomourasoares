@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mim:
 Atualmente estou em transição de carreira, buscando uma nova oportunidade para crescer e melhorar profissionalmente, trabalhar em equipe e projetos desafiadores!
-- 🧠 Estudando Spring Framework atualmente!
+- Mantendo atualizado o 🧠!
 
 ### 🛠 Habilidades:
 ><div style="display: flex">IDE: 
@@ -19,11 +19,11 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 ></div>
 
 ><div style="display: flex">Tecnologias / Frameworks: 
-  ><a href="https://openjfx.io/" title="Click to open JavaFX website" target="_blank"><img align="center" alt="JavaFX logo" height="50" width="50" src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2" /></a>
-  ><a href="https://spring.io/" title="Click to open Spring Framework website" target="_blank"><img align="center" alt="Spring Framework logo" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></a>
-  ><a href="https://maven.apache.org/" title="Click to open Maven website" target="_blank"><img align="center" alt="Maven logo" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/maven.svg" /></a>
-  ><a href="https://gradle.org/" title="Click to open Gradle website" target="_blank"><img align="center" alt="Gradle logo" height="50" width="50" src="https://github.com/actions/starter-workflows/blob/main/icons/gradle.svg" /></a>
-  ><a href="https://site.mockito.org/" title="Click to open Mockito website" target="_blank"><img align="center" alt="Mockito + JUnit5 logo" height="50" width="150" src="https://solidsoft.files.wordpress.com/2018/03/mockito-junit5-logo3.png" /></a>
+  ><a href="https://openjfx.io/" title="Click to open JavaFX website" target="_blank"><img align="center" alt="JavaFX logo" height="50" width="50" src="" /></a>
+  ><a href="https://spring.io/" title="Click to open Spring Framework website" target="_blank"><img align="center" alt="Spring Framework logo" height="50" width="50" src="" /></a>
+  ><a href="https://maven.apache.org/" title="Click to open Maven website" target="_blank"><img align="center" alt="Maven logo" height="50" width="50" src="" /></a>
+  ><a href="https://gradle.org/" title="Click to open Gradle website" target="_blank"><img align="center" alt="Gradle logo" height="50" width="50" src="" /></a>
+  ><a href="https://site.mockito.org/" title="Click to open Mockito website" target="_blank"><img align="center" alt="Mockito + JUnit5 logo" height="50" width="150" src="" /></a>
   ><a href="https://angular.io/" title="Click to open Angular website" target="_blank"><img align="center" alt="Angular" height="50" width="50" src="" /></a>
 ></div>
 
