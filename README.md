@@ -6,8 +6,8 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 
 ### 🛠 Habilidades:
 ><div style="display: inline_block">IDE: 
-  ><a href="https://www.eclipse.org/" title="Click to open Eclipse website" target="_blank"><img align="center" alt="Eclipse" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" /></a>
-  ><a href="https://code.visualstudio.com/" title="Click to open Visual Studio Code website" target="_blank"><img align="center" alt="Visual Studio Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /></a>
+  ><a href="https://www.eclipse.org/" title="Click to open Eclipse website" target="_blank"><img align="center" alt="Eclipse" height="50" width="50" src="https://github.com/brunomourasoares/brunomourasoares/blob/main/assets/eclipse.svg" /></a>
+  ><a href="https://code.visualstudio.com/" title="Click to open Visual Studio Code website" target="_blank"><img align="center" alt="Visual Studio Code" height="50" width="50" src="https://github.com/brunomourasoares/brunomourasoares/blob/main/assets/vscode.svg" /></a>
 ></div>
 
 ><div style="display: inline_block">Linguagens: 
