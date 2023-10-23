@@ -28,18 +28,18 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 ></div>
 
 ><div style="display: flex">Banco de dados:
-  ><a href="https://dev.mysql.com/" title="Clique para abrir o MySQL website" target="_blank"><img align="center" alt="Logotipo MySQL" height="50" width="50" src="" /></a>
-  ><a href="https://www.postgresql.org/" title="Clique para abrir o Postgre SQL website" target="_blank"><img align="center" alt="Logotipo PostgreSQL" height="50" width="50" src="" /></a>
+  ><a href="https://dev.mysql.com/" title="Clique para abrir o MySQL website" target="_blank"><img align="center" alt="Logotipo MySQL" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/mysql.svg" /></a>
+  ><a href="https://www.postgresql.org/" title="Clique para abrir o Postgre SQL website" target="_blank"><img align="center" alt="Logotipo PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/postgresql.svg" /></a>
   ><a href="https://www.mongodb.com/" title="Clique para abrir o MongoDB website" target="_blank"><img align="center" alt="Logotipo MongoDB" height="50" width="50" src="" /></a>
-  ><a href="https://www.h2database.com/" title="Clique para abrir o H2 Database website" target="_blank"><img align="center" alt="Logotipo H2 Database" height="50" width="50" src="" /></a>
+  ><a href="https://www.h2database.com/" title="Clique para abrir o H2 Database website" target="_blank"><img align="center" alt="Logotipo H2 Database" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/h2.png" /></a>
 ></div>
   
 ><div style="display: flex">Ferramentas:
-  ><a href="https://gluonhq.com/products/scene-builder/" title="Clique para abrir o SceneBuilder website" target="_blank"><img align="center" alt="Logotipo Scene Builder" height="50" width="50" src="" /></a>
-  ><a href="https://www.postman.com/" title="Clique para abrir o Postman website" target="_blank"><img align="center" alt="Logotipo Postman" height="50" width="50" src="" /></a>
-  ><a href="https://github.com/" title="Clique para abrir o GitHub website" target="_blank"><img align="center" alt="Logotipo GitHub" height="50" width="50" src="" /></a>
-  ><a href="https://gitlab.com/" title="Clique para abrir o GitLab website" target="_blank"><img align="center" alt="Logotipo GitLab" height="50" width="50" src="" /></a>
-  ><a href="https://www.docker.com/" title="Clique para abrir o Docker website" target="_blank"><img align="center" alt="Logotipo Docker" height="50" width="50" src="" /></a>
+  ><a href="https://gluonhq.com/products/scene-builder/" title="Clique para abrir o SceneBuilder website" target="_blank"><img align="center" alt="Logotipo Scene Builder" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/scenebuilder.png" /></a>
+  ><a href="https://www.postman.com/" title="Clique para abrir o Postman website" target="_blank"><img align="center" alt="Logotipo Postman" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/postman.svg" /></a>
+  ><a href="https://github.com/" title="Clique para abrir o GitHub website" target="_blank"><img align="center" alt="Logotipo GitHub" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/github.png" /></a>
+  ><a href="https://gitlab.com/" title="Clique para abrir o GitLab website" target="_blank"><img align="center" alt="Logotipo GitLab" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/gitlab.png" /></a>
+  ><a href="https://www.docker.com/" title="Clique para abrir o Docker website" target="_blank"><img align="center" alt="Logotipo Docker" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/docker.svg" /></a>
 ></div>
 
 ### <img align="center" alt="GitHub Status" height="20" width="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> GitHub Status
