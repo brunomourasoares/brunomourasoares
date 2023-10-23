@@ -1,4 +1,4 @@
-# 👋Olá!
+# 👋 Olá!
 
 ### 🚀 Sobre mim:
 Atualmente estou em transição de carreira, buscando uma nova oportunidade para crescer e melhorar profissionalmente, trabalhar em equipe e projetos desafiadores!
@@ -22,22 +22,24 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
   ><a href="https://openjfx.io/" title="Clique para abrir o JavaFX website" target="_blank"><img align="center" alt="Logotipo JavaFX" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/javafx.png" /></a>
   ><a href="https://spring.io/" title="Clique para abrir o Spring Framework website" target="_blank"><img align="center" alt="Logotipo Spring Framework" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/spring.svg" /></a>
   ><a href="https://maven.apache.org/" title="Clique para abrir o Maven website" target="_blank"><img align="center" alt="Logotipo Maven" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/maven.svg" /></a>
-  ><a href="https://gradle.org/" title="Clique para abrir o Gradle website" target="_blank"><img align="center" alt="Logotipo Gradle" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/gradle.svg" /></a>
+  ><a href="https://gradle.org/" title="Clique para abrir o Gradle website" target="_blank"><img align="center" alt="Logotipo Gradle" height="60" width="60" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/gradle.svg" /></a>
   ><a href="https://site.mockito.org/" title="Clique para abrir o JUnit website" target="_blank"><img align="center" alt="Logotipo JUnit" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/junit.png" /></a>
-  ><a href="https://angular.io/" title="Click to open Angular website" target="_blank"><img align="center" alt="Logotipo Angular" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/angular.svg" /></a>
+  ><a href="https://angular.io/" title="Clique para abrir o Angular website" target="_blank"><img align="center" alt="Logotipo Angular" height="60" width="60" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/angular.svg" /></a>
 ></div>
 
 ><div style="display: flex">Banco de dados:
-  ><a href="https://dev.mysql.com/" title="Click to open MySQL website" target="_blank"><img align="center" alt="MySQL logo" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></a>
-  ><a href="https://www.postgresql.org/" title="Click to open Postgre SQL website" target="_blank"><img align="center" alt="Postgre SQL logo" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /></a>
-  ><a href="https://www.h2database.com/" title="Click to open H2 Database website" target="_blank"><img align="center" alt="H2 Database logo" height="50" width="50" src="https://www.h2database.com/html/images/h2-logo-2.png" /></a>
+  ><a href="https://dev.mysql.com/" title="Clique para abrir o MySQL website" target="_blank"><img align="center" alt="Logotipo MySQL" height="50" width="50" src="" /></a>
+  ><a href="https://www.postgresql.org/" title="Clique para abrir o Postgre SQL website" target="_blank"><img align="center" alt="Logotipo PostgreSQL" height="50" width="50" src="" /></a>
+  ><a href="https://www.mongodb.com/" title="Clique para abrir o MongoDB website" target="_blank"><img align="center" alt="Logotipo MongoDB" height="50" width="50" src="" /></a>
+  ><a href="https://www.h2database.com/" title="Clique para abrir o H2 Database website" target="_blank"><img align="center" alt="Logotipo H2 Database" height="50" width="50" src="" /></a>
 ></div>
   
 ><div style="display: flex">Ferramentas:
-  ><a href="https://gluonhq.com/products/scene-builder/" title="Click to open SceneBuilder website" target="_blank"><img align="center" alt="Scene Builder" height="50" width="50" src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png" /></a>
-  ><a href="https://www.postman.com/" title="Click to open Postman website" target="_blank"><img align="center" alt="Postman logo" height="50" width="50" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" /></a>
-  ><a href="https://www.docker.com/" title="Click to open Docker website" target="_blank"><img align="center" alt="Docker logo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
-  ><a href="https://github.com/" title="Click to open GitHub website" target="_blank"><img align="center" alt="GitHub logo" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" /></a>
+  ><a href="https://gluonhq.com/products/scene-builder/" title="Clique para abrir o SceneBuilder website" target="_blank"><img align="center" alt="Logotipo Scene Builder" height="50" width="50" src="" /></a>
+  ><a href="https://www.postman.com/" title="Clique para abrir o Postman website" target="_blank"><img align="center" alt="Logotipo Postman" height="50" width="50" src="" /></a>
+  ><a href="https://github.com/" title="Clique para abrir o GitHub website" target="_blank"><img align="center" alt="Logotipo GitHub" height="50" width="50" src="" /></a>
+  ><a href="https://gitlab.com/" title="Clique para abrir o GitLab website" target="_blank"><img align="center" alt="Logotipo GitLab" height="50" width="50" src="" /></a>
+  ><a href="https://www.docker.com/" title="Clique para abrir o Docker website" target="_blank"><img align="center" alt="Logotipo Docker" height="50" width="50" src="" /></a>
 ></div>
 
 ### <img align="center" alt="GitHub Status" height="20" width="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> GitHub Status
