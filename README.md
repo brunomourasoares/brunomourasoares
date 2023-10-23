@@ -38,7 +38,7 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
   ><a href="https://gluonhq.com/products/scene-builder/" title="Clique para abrir o SceneBuilder website" target="_blank"><img align="center" alt="Logotipo Scene Builder" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/scenebuilder.png" /></a>
   ><a href="https://www.postman.com/" title="Clique para abrir o Postman website" target="_blank"><img align="center" alt="Logotipo Postman" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/postman.svg" /></a>
   ><a href="https://github.com/" title="Clique para abrir o GitHub website" target="_blank"><img align="center" alt="Logotipo GitHub" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/github.png" /></a>
-  ><a href="https://gitlab.com/" title="Clique para abrir o GitLab website" target="_blank"><img align="center" alt="Logotipo GitLab" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/gitlab.png" /></a>
+  ><a href="https://gitlab.com/" title="Clique para abrir o GitLab website" target="_blank"><img align="center" alt="Logotipo GitLab" height="50" width="50" src="" /></a>
   ><a href="https://www.docker.com/" title="Clique para abrir o Docker website" target="_blank"><img align="center" alt="Logotipo Docker" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/docker.svg" /></a>
 ></div>
 
