@@ -30,8 +30,8 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 ><div style="display: flex">Banco de dados:
   ><a href="https://dev.mysql.com/" title="Clique para abrir o MySQL website" target="_blank"><img align="center" alt="Logotipo MySQL" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/mysql.svg" /></a>
   ><a href="https://www.postgresql.org/" title="Clique para abrir o Postgre SQL website" target="_blank"><img align="center" alt="Logotipo PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/postgresql.svg" /></a>
-  ><a href="https://www.mongodb.com/" title="Clique para abrir o MongoDB website" target="_blank"><img align="center" alt="Logotipo MongoDB" height="50" width="50" src="" /></a>
-  ><a href="https://www.h2database.com/" title="Clique para abrir o H2 Database website" target="_blank"><img align="center" alt="Logotipo H2 Database" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/h2.png" /></a>
+  ><a href="https://www.mongodb.com/" title="Clique para abrir o MongoDB website" target="_blank"><img align="center" alt="Logotipo MongoDB" height="50" width="100" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/f097c63f17bb3dec89ab0883111174e91014c8d7/assets/mongodb.svg" /></a>
+  ><a href="https://www.h2database.com/" title="Clique para abrir o H2 Database website" target="_blank"><img align="center" alt="Logotipo H2 Database" height="50" width="100" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/h2.png" /></a>
 ></div>
   
 ><div style="display: flex">Ferramentas:
