@@ -2,9 +2,8 @@
 
 ### 🚀 Sobre mim:
 Atualmente estou em transição de carreira, buscando uma nova oportunidade para crescer e melhorar profissionalmente, trabalhar em equipe e projetos desafiadores!
-- Mantendo atualizado o 🧠!
 
-### 🛠 Tech Stack:
+### &#129504; Tech Stack:
 
 IDE | Back-End | Front-End | Database | Tools
 :------ | :------ | :------ | :------ | :------
@@ -21,7 +20,7 @@ IDE | Back-End | Front-End | Database | Tools
   <img height="150" alt="Anime person using PC" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" />
 </div>
   
-### Redes Sociais:
+### &#128490; Redes Sociais:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/brunomsoares)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/brunomourasoares/)
 [![twitter](https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black "Twitter")](https://twitter.com/BMouraSoares)
