@@ -4,43 +4,15 @@
 Atualmente estou em transição de carreira, buscando uma nova oportunidade para crescer e melhorar profissionalmente, trabalhar em equipe e projetos desafiadores!
 - Mantendo atualizado o 🧠!
 
-### 🛠 Habilidades:
-><div style="display: flex">IDE: 
-  ><a href="https://www.eclipse.org/" title="Clique para abrir o Eclipse website" target="_blank"><img align="center" alt="Logotipo Eclipse" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/34b8af0a7c09a8c8053ed10896b2145e390506d2/assets/eclipse.svg" /></a>
-  ><a href="https://code.visualstudio.com/" title="Clique para abrir o Visual Studio Code website" target="_blank"><img align="center" alt="Logotipo Visual Studio Code" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/34b8af0a7c09a8c8053ed10896b2145e390506d2/assets/vscode.svg" /></a>
-></div>
+### 🛠 Tech Stack:
 
-><div style="display: flex">Linguagens: 
-  ><a href="https://www.oracle.com/br/java/" title="Clique para abrir o Java website" target="_blank"><img align="center" alt="Logotipo Java" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/java.svg" /></a>
-  ><a href="https://www.javascript.com/" title="Clique para abrir o JavaScript website" target="_blank"><img align="center" alt="Logotipo JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/javascript.svg" /></a>
-  ><a href="https://html.spec.whatwg.org/" title="Clique para abrir o HTML5 website" target="_blank"><img align="center" alt="Logotipo HTML5" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/html5.svg" /></a>
-  ><a href="https://www.w3.org/TR/css3-roadmap/" title="Clique para abrir o CSS3 website" target="_blank"><img align="center" alt="Logotipo CSS3" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/css3.svg" /></a>
-  ><a href="https://www.typescriptlang.org/" title="Clique para abrir o TypeScript website" target="_blank"><img align="center" alt="Logotipo TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/aec31009adb89b9e620fec474e95776cb4b58ffd/assets/typescript.svg" /></a>
-></div>
-
-><div style="display: flex">Tecnologias / Frameworks: 
-  ><a href="https://openjfx.io/" title="Clique para abrir o JavaFX website" target="_blank"><img align="center" alt="Logotipo JavaFX" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/javafx.png" /></a>
-  ><a href="https://spring.io/" title="Clique para abrir o Spring Framework website" target="_blank"><img align="center" alt="Logotipo Spring Framework" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/spring.svg" /></a>
-  ><a href="https://maven.apache.org/" title="Clique para abrir o Maven website" target="_blank"><img align="center" alt="Logotipo Maven" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/maven.svg" /></a>
-  ><a href="https://gradle.org/" title="Clique para abrir o Gradle website" target="_blank"><img align="center" alt="Logotipo Gradle" height="60" width="60" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/gradle.svg" /></a>
-  ><a href="https://site.mockito.org/" title="Clique para abrir o JUnit website" target="_blank"><img align="center" alt="Logotipo JUnit" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/junit.png" /></a>
-  ><a href="https://angular.io/" title="Clique para abrir o Angular website" target="_blank"><img align="center" alt="Logotipo Angular" height="60" width="60" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1b143f5590e57f78dfcc86b468ff4ee4f658e4bc/assets/angular.svg" /></a>
-></div>
-
-><div style="display: flex">Banco de dados:
-  ><a href="https://dev.mysql.com/" title="Clique para abrir o MySQL website" target="_blank"><img align="center" alt="Logotipo MySQL" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/mysql.svg" /></a>
-  ><a href="https://www.postgresql.org/" title="Clique para abrir o Postgre SQL website" target="_blank"><img align="center" alt="Logotipo PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/postgresql.svg" /></a>
-  ><a href="https://www.mongodb.com/" title="Clique para abrir o MongoDB website" target="_blank"><img align="center" alt="Logotipo MongoDB" height="50" width="100" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/f097c63f17bb3dec89ab0883111174e91014c8d7/assets/mongodb.svg" /></a>
-  ><a href="https://www.h2database.com/" title="Clique para abrir o H2 Database website" target="_blank"><img align="center" alt="Logotipo H2 Database" height="50" width="100" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/h2.png" /></a>
-></div>
-  
-><div style="display: flex">Ferramentas:
-  ><a href="https://gluonhq.com/products/scene-builder/" title="Clique para abrir o SceneBuilder website" target="_blank"><img align="center" alt="Logotipo Scene Builder" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/scenebuilder.png" /></a>
-  ><a href="https://www.postman.com/" title="Clique para abrir o Postman website" target="_blank"><img align="center" alt="Logotipo Postman" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/postman.svg" /></a>
-  ><a href="https://github.com/" title="Clique para abrir o GitHub website" target="_blank"><img align="center" alt="Logotipo GitHub" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/main/assets/github.png" /></a>
-  ><a href="https://gitlab.com/" title="Clique para abrir o GitLab website" target="_blank"><img align="center" alt="Logotipo GitLab" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/fb81ebfd0390287e3112f100a314b7e6f1a8da06/assets/gitlab.svg" /></a>
-  ><a href="https://www.docker.com/" title="Clique para abrir o Docker website" target="_blank"><img align="center" alt="Logotipo Docker" height="50" width="50" src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/2a3b5adca570e49fa1a7fdb9c21fabe6b8eb39c6/assets/docker.svg" /></a>
-></div>
+IDE | Back-End | Front-End | Database | Tools
+:------ | :------ | :------ | :------ | :------
+[![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white "Eclipse IDE")](https://eclipseide.org/) | [![Java](https://img.shields.io/badge/java-0A66C2?style=for-the-badge&logo=java&logoColor=white "Java")](https://www.java.com/pt-BR/) | [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")](https://www.w3.org/html/) | [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")](https://dev.mysql.com/) | [![SceneBuilder](https://img.shields.io/badge/scenebuilder-0A66C2?style=for-the-badge&logo=scenebuilder&logoColor=white "SceneBuilder")](https://gluonhq.com/products/scene-builder/)
+[![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white "Visual Studio Code")](https://code.visualstudio.com/) | [![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white "Spring Framework")](https://spring.io/) | [![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")](https://www.w3.org/Style/CSS/Overview.en.html) | [![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org/) | [![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")](https://www.postman.com/)
+-- | [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "Node.js")](https://nodejs.org/) | [![Angular](https://img.shields.io/badge/angular-D50037?style=for-the-badge&logo=angular&logoColor=white "Angular")](https://angular.io/) | [![H2 Database](https://img.shields.io/badge/h2_database-2D00E3?style=for-the-badge&logo=h2database&logoColor=white "H2 Database")](https://www.h2database.com/) | [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com/)
+-- | [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")](https://www.typescriptlang.org/) | -- | [![MongoDB](https://img.shields.io/badge/mongo_db-47A248?style=for-the-badge&logo=mongodb&logoColor=white "Mongo DB")](https://www.mongodb.com) | [![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white "GitLab")](https://gitlab.com/)
+-- | -- | -- | -- | [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker")](https://www.docker.com/)
 
 ### <img align="center" alt="GitHub Status" height="20" width="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> GitHub Status
 <div>
@@ -50,6 +22,6 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 </div>
   
 ### Redes Sociais:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomsoares)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunomourasoares/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BMouraSoares)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/brunomsoares)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/brunomourasoares/)
+[![twitter](https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black "Twitter")](https://twitter.com/BMouraSoares)
