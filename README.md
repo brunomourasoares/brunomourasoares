@@ -15,8 +15,8 @@ IDE | Back-End | Front-End | Database | Tools
 
 ### <img align="center" alt="GitHub Status" height="20" width="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> GitHub Status
 <div>
-  <img height="150" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="150" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=16&theme=algolia" />
+  <img height="150" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="150" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" />
   <img height="150" alt="Anime person using PC" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" />
 </div>
   
