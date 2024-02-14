@@ -5,8 +5,8 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
 
 ### &#129504;Tech Stack:
 <div>
-  <a href="#" title="Eclipse, VSCode, Maven, Gradle">
-    <img height="50" alt="IDE" src="https://skillicons.dev/icons?i=eclipse,vscode,maven,gradle" />
+  <a href="#" title="Eclipse, VSCode, Intellij, Maven, Gradle">
+    <img height="50" alt="IDE" src="https://skillicons.dev/icons?i=eclipse,vscode,idea,maven,gradle" />
   </a>
 </br>
   <a href="#" title="Java, Spring, Node.js, TypeScript">
@@ -21,8 +21,8 @@ Atualmente estou em transição de carreira, buscando uma nova oportunidade para
     <img height="50" alt="DB" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
   </a>
 </br>
-  <a href="#" title="Postman, Git, GitHub, GitLab, Docker">
-    <img height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker" />
+  <a href="#" title="Postman, Git, GitHub, GitLab, Docker, Linux">
+    <img height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" />
   </a>
 </div>
 
