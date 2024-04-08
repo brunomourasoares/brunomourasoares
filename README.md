@@ -2,11 +2,11 @@
 
 <div>
 <h1>Welcome to my git <span title="WORLD">🌎</span></h1>
-<h3>👋 Olá meu nome é Bruno 👋</h3>
+<h3>👋 Olá meu nome é Bruno</h3>
 <a href="#" style="pointer-events: none; cursor: default;"><img width="600" src="./assets/pixel-jeff-cafe.gif" alt="Foto de um café com estilo pixelado" title="Degustando um café enquanto trabalho!" /></a>
 </div>
 
-<h3>🗪 Contato / Redes Sociais 🗪</h3>
+<h3>🗪 Contato / Redes Sociais</h3>
 <div>
 <a href="mailto:brunomourasoares@gmail.com" target="_blank"><img height="30" alt="E-mail" src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" title="E-mail" /></a>&nbsp;
 <a href="https://linkedin.com/in/brunomsoares" target="_blank"><img height="30" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>&nbsp;
@@ -14,10 +14,10 @@
 <a href="https://twitter.com/BMouraSoares" target="_blank"><img height="30" alt="Twitter X" src="https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black" title="Twitter X" /></a>
 </div>
 
-<h3>🚀 Sobre mim 🚀</h3>
+<h3>🚀 Sobre mim</h3>
 <p>Atualmente estou em transição de carreira, buscando uma oportunidade para crescer e melhorar <br> profissionalmente, trabalhar em equipe, criar e colaborar em projetos desafiadores!</p>
 
-<h3>🧠 Tech Stacks 🧠</h3>
+<h3>🧠 Tech Stacks</h3>
 <div>
 <img height="50" alt="IDE" src="https://skillicons.dev/icons?i=eclipse,vscode,idea,maven,gradle" title="Eclipse, VSCode, Intellij, Maven, Gradle" />
 </div>
@@ -40,7 +40,7 @@
 <img height="150px" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
 </div>
 
-<h3>🧠 Formação / Cursos / Bootcamps 🧠</h3>
+<h3>🏫 Formação / Cursos / Bootcamps</h3>
 
 ``` Análise e Desenvolvimento de Sistemas - Faculdade Descomplica - 2026 ```
 
