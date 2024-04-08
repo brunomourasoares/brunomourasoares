@@ -19,19 +19,19 @@
 
 <h3>🧠 Tech Stacks</h3>
 <div>
-<img height="50" alt="IDE" src="https://skillicons.dev/icons?i=eclipse,vscode,idea,maven,gradle" title="Eclipse, VSCode, Intellij, Maven, Gradle" />
+<a href="#"><img height="50" alt="IDE" src="https://skillicons.dev/icons?i=eclipse,vscode,idea,maven,gradle" title="Eclipse, VSCode, Intellij, Maven, Gradle" /></a>
 </div>
 <div>
-<img height="50" alt="BACKEND" src="https://skillicons.dev/icons?i=java,spring,nodejs,ts" title="Java, Spring, Node.js, TypeScript" />
+<a href="#"><img height="50" alt="BACKEND" src="https://skillicons.dev/icons?i=java,spring,nodejs,ts" title="Java, Spring, Node.js, TypeScript" /></a>
 </div>
 <div>
-<img height="50" alt="FRONTEND" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,react" title="HTML, CSS, Bootstrap, JavaScript, Angular, React" />
+<a href="#"><img height="50" alt="FRONTEND" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,react" title="HTML, CSS, Bootstrap, JavaScript, Angular, React" /></a>
 </div>
 <div>
-<img height="50" alt="DATABASE" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" title="MySQL, PostgreSQL, MongoDB" />
+<a href="#"><img height="50" alt="DATABASE" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" title="MySQL, PostgreSQL, MongoDB" /></a>
 </div>
 <div>
-<img height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" title="Postman, Git, GitHub, GitLab, Docker, Linux" />
+<a href="#"><img height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" title="Postman, Git, GitHub, GitLab, Docker, Linux" /></a>
 </div>
 
 <h3><img height="20" alt="Icone Github" src="./assets/github.svg" /> GitHub Status:</h3>
