@@ -1,7 +1,7 @@
 <div align="center">
 
 <div>
-<h1>Welcome to my git <span title="WORLD">🌎</span></h1>
+<h1>Bem vindo ao meu <span title="MUNDO">🌎</span> Git</h1>
 <h3>👋 Olá meu nome é Bruno</h3>
 <a href="#" style="pointer-events: none; cursor: default;"><img width="600" src="./assets/pixel-jeff-cafe.gif" alt="Foto de um café com estilo pixelado" title="Degustando um café enquanto trabalho!" /></a>
 </div>
@@ -56,7 +56,7 @@
 <td>Bootcamp Spring Framework Experience</td>
 <td><a href="https://www.dio.me/certificate/8DBCF0E3" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Spring Framework Experience" title="Certificado Spring Framework Experience" width="40" height="40" /></a></td>
 </tr>
-<tr align="center"><td><span title="Digital Innovation One">DIO</span></td><td></td></tr>
+<tr align="center"><td><span title="Digital Innovation One">DIO</span></td><td><a href="https://www.dio.me/certificate/8545B37B"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp Santander Fullstack Developer" title="Certificado Bootcamp Santander Fullstack Developer" width="40" height="40" /></a></td></tr>
 <tr align="center"><td><span title="Digital Innovation One">DIO</span></td><td></td></tr>
 <tr align="center"><td><span title="Digital Innovation One">DIO</span></td><td></td></tr>
 </table>
