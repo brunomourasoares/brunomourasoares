@@ -36,8 +36,8 @@
 
 <h3><img height="20" alt="Icone Github" src="./assets/github.svg" /> GitHub Status:</h3>
 <div>
-<img height="150px" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" />
-<img height="150px" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
+<img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" />
+<img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
 </div>
 
 <h3>🏫 Formação / Cursos / Bootcamps</h3>
