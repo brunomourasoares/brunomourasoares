@@ -157,9 +157,6 @@
   </table>
   <h3><a href="#"><img height="20" src="./assets/github.svg" /></a> GitHub Status</h3>
   <div>
-    <a href="#">
-      <img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" />
-      <img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
-    </a>
+    <a href="#"><img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" /><img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" /></a>
   </div>
 </div>
