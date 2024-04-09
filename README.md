@@ -31,7 +31,7 @@
   <div>
     <a href="#"><img height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" title="Postman, Git, GitHub, GitLab, Docker, Linux" /></a>
   </div>
-  <h3>🏫 Formação / Cursos / Bootcamps</h3>
+  <h3>🏫 Formação | Cursos | Bootcamps</h3>
 
   ``` Análise e Desenvolvimento de Sistemas - Faculdade Descomplica - 2026 ```
   <table>
@@ -41,6 +41,13 @@
     <th>Horas</th>
     <th>Tecnologias</th>
     <th>Certificado</th>
+  </tr>
+    <tr align="center">
+    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td>Basic FrontEnd</td>
+    <td>240</td>
+    <td>HTML5 | CSS3 | JavaScript | Bootstrap | UX | Ágil</td>
+    <td><a href="https://microcertificado.descomplica.com.br/a8017175deaf8cf201713d658f3bcaa11ff5a6fefff15967438ba90d609e336e.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Basic FrontEnd" title="Certificado Basic FrontEnd" width="40" /></a></td>
   </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
@@ -94,14 +101,14 @@
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação HTML Web Developer</td>
     <td>21</td>
-    <td>HTML</td>
+    <td>HTML 5</td>
     <td><a href="https://www.dio.me/certificate/9F89C81A" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação HTML Web Developer" title="Formação HTML Web Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação CSS Web Developer</td>
     <td>48</td>
-    <td>HTML | CSS</td>
+    <td>HTML5 | CSS3</td>
     <td><a href="https://www.dio.me/certificate/4E05D222" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação CSS Web Developer" title="Formação CSS Web Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
@@ -133,7 +140,7 @@
     <td><a href="https://www.dio.me/certificate/OWGTVMRV" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Linux Fundamentals" title="Formação Linux Fundamentals" width="40" /></a></td>
   </tr>
   </table>
-  <h3><img src="./assets/repository.png"> Principais Repositórios</h3>
+  <h3><a href="#"><img height="20" src="./assets/repository.png" /></a> Principais Repositórios</h3>
   <table>
     <tr align="center">
       <th>Nome do Repositório</th>
@@ -148,7 +155,7 @@
       <td>Descrição aqui!</td>
     </tr>
   </table>
-  <h3><img height="20" alt="Icone Github" src="./assets/github.svg" /> GitHub Status</h3>
+  <h3><a href="#"><img height="20" src="./assets/github.svg" /></a> GitHub Status</h3>
   <div>
     <a href="#">
       <img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" />
