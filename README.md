@@ -31,13 +31,6 @@
   <div>
     <a href="#"><img height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" title="Postman, Git, GitHub, GitLab, Docker, Linux" /></a>
   </div>
-  <h3><img height="20" alt="Icone Github" src="./assets/github.svg" /> GitHub Status:</h3>
-  <div>
-    <a href="#">
-      <img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" />
-      <img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
-    </a>
-  </div>
   <h3>🏫 Formação / Cursos / Bootcamps</h3>
 
   ``` Análise e Desenvolvimento de Sistemas - Faculdade Descomplica - 2026 ```
@@ -140,4 +133,26 @@
     <td><a href="https://www.dio.me/certificate/OWGTVMRV" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Linux Fundamentals" title="Formação Linux Fundamentals" width="40" /></a></td>
   </tr>
   </table>
+  <h3><img src="./assets/repository.png"> Principais Repositórios</h3>
+  <table>
+    <tr align="center">
+      <th>Nome do Repositório</th>
+      <th>Descrição</th>
+    </tr>
+    <tr align="center">
+      <td>MyAccess Desktop</td>
+      <td>Descrição aqui!</td>
+    </tr>
+    <tr align="center">
+      <td>MyAccess Web</td>
+      <td>Descrição aqui!</td>
+    </tr>
+  </table>
+  <h3><img height="20" alt="Icone Github" src="./assets/github.svg" /> GitHub Status</h3>
+  <div>
+    <a href="#">
+      <img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" />
+      <img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
+    </a>
+  </div>
 </div>
