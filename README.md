@@ -145,14 +145,21 @@
     <tr align="center">
       <th>Nome do Repositório</th>
       <th>Descrição</th>
+      <th>Tecnologias</th>
     </tr>
+    <tr align="center">
+      <td><a href="https://github.com/brunomourasoares/portfolio/">Portfolio</a></td>
+      <td>Uma página estática sobre minha trajetória profissional.</td>
+      <td>HTML5, CSS3, Bootstrap e Javascript</td>
     <tr align="center">
       <td>MyAccess Desktop</td>
-      <td>Descrição aqui!</td>
+      <td>Uma programa feito exclusivamente em java para controlar entrada e saida de pessoas e veículos. </td>
+      <td>Java, JavaFX e SQL</td>
     </tr>
     <tr align="center">
-      <td>MyAccess Web</td>
-      <td>Descrição aqui!</td>
+      <td><a href="" target="_blank" title="MyAccess Web - Controle de Acesso">MyAccess Web</a></td>
+      <td>API Rest para controlar a entrada e saída de pessoas e veículos. </td>
+      <td>Java, Spring Framework e SQL</td>
     </tr>
   </table>
   <h3><a href="#"><img height="20" src="./assets/github.svg" /></a> GitHub Status</h3>
