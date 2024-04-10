@@ -152,12 +152,12 @@
       <td>Uma página estática sobre minha trajetória profissional.</td>
       <td>HTML5, CSS3, Bootstrap e Javascript</td>
     <tr align="center">
-      <td>MyAccess Desktop</td>
-      <td>Uma programa feito exclusivamente em java para controlar entrada e saida de pessoas e veículos. </td>
+      <td><a href="https://github.com/brunomourasoares/myaccess/" target="_blank" title="MyAccess Desktop - Controle de Acesso">MyAccess Desktop</a></td>
+      <td>Uma programa feito em java para controlar entrada e saida de pessoas e veículos.</td>
       <td>Java, JavaFX e SQL</td>
     </tr>
     <tr align="center">
-      <td><a href="" target="_blank" title="MyAccess Web - Controle de Acesso">MyAccess Web</a></td>
+      <td><a href="https://github.com/brunomourasoares/myaccessweb/" target="_blank" title="MyAccess Web - Controle de Acesso">MyAccess Web</a></td>
       <td>API Rest para controlar a entrada e saída de pessoas e veículos. </td>
       <td>Java, Spring Framework e SQL</td>
     </tr>
