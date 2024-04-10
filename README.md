@@ -148,9 +148,15 @@
       <th>Tecnologias</th>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/portfolio/">Portfolio</a></td>
+      <td><a href="https://github.com/brunomourasoares/portfolio/" target="_blank" title="Portifolio">Portfolio</a></td>
       <td>Uma página estática sobre minha trajetória profissional.</td>
       <td>HTML5, CSS3, Bootstrap e Javascript</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/brunomourasoares/badarantwiki/" target="_blank" title="Badarant Wiki">Badarant Wiki</a></td>
+      <td>Uma página estática sobre o jogo Valorant consumindo uma API com informções sobre o jogo.</td>
+      <td>HTML5, CSS3, Bootstrap, Javascript e Node.js com Express.</td>
+    </tr>
     <tr align="center">
       <td><a href="https://github.com/brunomourasoares/myaccess/" target="_blank" title="MyAccess Desktop - Controle de Acesso">MyAccess Desktop</a></td>
       <td>Uma programa feito em java para controlar entrada e saida de pessoas e veículos.</td>
