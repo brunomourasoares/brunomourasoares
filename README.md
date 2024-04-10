@@ -1,4 +1,5 @@
 <div align="center">
+  
   <div>
     <h1>Bem vindo ao meu <span title="MUNDO">🌎</span> Git</h1>
     <h3>👋 Olá meu nome é Bruno</h3>
@@ -6,6 +7,7 @@
       <img width="600" src="./assets/pixel-jeff-cafe.gif" alt="Foto de um café com estilo pixelado" title="Degustando um café enquanto trabalho!" />
     </a>
   </div>
+  
   <h3>🗪 Contato / Redes Sociais</h3>
   <div>
     <a href="mailto:brunomourasoares@gmail.com" target="_blank"><img height="30" alt="E-mail" src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" title="E-mail" /></a>&nbsp;
@@ -13,6 +15,7 @@
     <a href="https://www.instagram.com/brunomourasoares/" target="_blank"><img height="30" alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" /></a>&nbsp;
     <a href="https://twitter.com/BMouraSoares" target="_blank"><img height="30" alt="Twitter X" src="https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black" title="Twitter X" /></a>
   </div>
+  
   <h3>🚀 Sobre mim</h3>
   <p>Atualmente estou em transição de carreira, buscando uma oportunidade para crescer e melhorar <br> profissionalmente, trabalhar em equipe, criar e colaborar em projetos desafiadores!</p>
   <h3>🧠 Tech Stacks</h3>
@@ -31,6 +34,7 @@
   <div>
     <a href="#"><img height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" title="Postman, Git, GitHub, GitLab, Docker, Linux" /></a>
   </div>
+  
   <h3>🏫 Formação | Cursos | Bootcamps</h3>
 
   ``` Análise e Desenvolvimento de Sistemas - Faculdade Descomplica - 2026 ```
@@ -140,6 +144,7 @@
     <td><a href="https://www.dio.me/certificate/OWGTVMRV" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Linux Fundamentals" title="Formação Linux Fundamentals" width="40" /></a></td>
   </tr>
   </table>
+  
   <h3><a href="#"><img height="20" src="./assets/repository.png" /></a> Principais Repositórios</h3>
   <table>
     <tr align="center">
@@ -154,8 +159,8 @@
     </tr>
     <tr align="center">
       <td><a href="https://github.com/brunomourasoares/badarantwiki/" target="_blank" title="Badarant Wiki">Badarant Wiki</a></td>
-      <td>Uma página estática sobre o jogo Valorant consumindo uma API com informções sobre o jogo.</td>
-      <td>HTML5, CSS3, Bootstrap, Javascript e Node.js com Express.</td>
+      <td>Uma página estática sobre o jogo Valorant consumindo uma API com informações sobre o jogo.</td>
+      <td>HTML5, CSS3, Bootstrap, Javascript e Node.js com Express</td>
     </tr>
     <tr align="center">
       <td><a href="https://github.com/brunomourasoares/myaccess/" target="_blank" title="MyAccess Desktop - Controle de Acesso">MyAccess Desktop</a></td>
