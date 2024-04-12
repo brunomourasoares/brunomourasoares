@@ -159,7 +159,7 @@
     </tr>
     <tr align="center">
       <td><a href="https://github.com/brunomourasoares/badarantwiki/" target="_blank" title="Badarant Wiki">Badarant Wiki</a></td>
-      <td>Uma página estática sobre o jogo Valorant consumindo uma API com informações sobre o jogo.</td>
+      <td>Uma página sobre o jogo Valorant consumindo uma API com informações sobre o jogo.</td>
       <td>HTML5, CSS3, Bootstrap, Javascript e Node.js com Express</td>
     </tr>
     <tr align="center">
