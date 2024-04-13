@@ -3,8 +3,8 @@
   <div>
     <h1>Bem vindo ao meu <span title="MUNDO">🌎</span> Git</h1>
     <h3>👋 Olá meu nome é Bruno</h3>
-    <a href="">
-      <img width="600" src="./assets/pixel-jeff-cafe.gif" alt="Foto de um café com estilo pixelado" title="Degustando um café enquanto trabalho!" />
+    <a href="#foto-cafe">
+      <img id="foto-cafe" width="600" src="./assets/pixel-jeff-cafe.gif" alt="Foto de um café com estilo pixelado" title="Degustando um café enquanto trabalho!" />
     </a>
   </div>
   
@@ -20,19 +20,29 @@
   <p>Atualmente estou em transição de carreira, buscando uma oportunidade para crescer e melhorar <br> profissionalmente, trabalhar em equipe, criar e colaborar em projetos desafiadores!</p>
   <h3>🧠 Tech Stacks</h3>
   <div>
-    <a href="#-tech-stacks"><img height="50" alt="IDE" src="https://skillicons.dev/icons?i=eclipse,vscode,idea,maven,gradle" title="Eclipse, VSCode, Intellij, Maven, Gradle" /></a>
+    <a href="#foto-hab1">
+      <img id="foto-hab1" height="50" alt="IDE" src="https://skillicons.dev/icons?i=eclipse,vscode,idea,maven,gradle" title="Eclipse, VSCode, Intellij, Maven, Gradle" />
+    </a>
   </div>
   <div>
-    <a href="#-tech-stacks"><img height="50" alt="BACKEND" src="https://skillicons.dev/icons?i=java,spring,nodejs,ts" title="Java, Spring, Node.js, TypeScript" /></a>
+    <a href="#foto-hab2">
+      <img id="foto-hab2" height="50" alt="BACKEND" src="https://skillicons.dev/icons?i=java,spring,nodejs,ts" title="Java, Spring, Node.js, TypeScript" />
+    </a>
   </div>
   <div>
-    <a href="#-tech-stacks"><img height="50" alt="FRONTEND" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,react" title="HTML, CSS, Bootstrap, JavaScript, Angular, React" /></a>
+    <a href="#foto-hab3">
+      <img id="foto-hab3" height="50" alt="FRONTEND" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,react" title="HTML, CSS, Bootstrap, JavaScript, Angular, React" />
+    </a>
   </div>
   <div>
-    <a href="#-tech-stacks"><img height="50" alt="DATABASE" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" title="MySQL, PostgreSQL, MongoDB" /></a>
+    <a href="#foto-hab4">
+      <img id="foto-hab4" height="50" alt="DATABASE" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" title="MySQL, PostgreSQL, MongoDB" />
+    </a>
   </div>
   <div>
-    <a href="#-tech-stacks"><img height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" title="Postman, Git, GitHub, GitLab, Docker, Linux" /></a>
+    <a href="#foto-hab5">
+      <img id="foto-hab5" height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" title="Postman, Git, GitHub, GitLab, Docker, Linux" />
+    </a>
   </div>
   
   <h3>🏫 Formação | Cursos | Bootcamps</h3>
