@@ -25,29 +25,32 @@
   <h3>🧠 Tech Stacks</h3>
   <h5>IDE</h3>
   <div>
-    <a href="https://eclipseide.org/" target="_blank"><img height="50" alt="Eclipse IDE" src="./assets/icons/Eclipse-Dark.svg" title="Eclipse IDE" />
-    <a href="https://code.visualstudio.com/" target="_blank"><img height="50" alt="Visual Studio Code" src="./assets/icons/VSCode-Dark.svg" title="Visual Studio Code" />
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img height="50" alt="IntelliJ IDEA" src="./assets/icons/Idea-Dark.svg" title="IntelliJ IDEA" />
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img height="50" alt="WebStorm" src="./assets/icons/WebStorm-Dark.svg" title="WebStorm" />
+    <a href="https://eclipseide.org/" target="_blank"><img height="50" alt="Eclipse IDE" src="./assets/icons/Eclipse-Dark.svg" title="Eclipse IDE" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img height="50" alt="Visual Studio Code" src="./assets/icons/VSCode-Dark.svg" title="Visual Studio Code" /></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img height="50" alt="IntelliJ IDEA" src="./assets/icons/Idea-Dark.svg" title="IntelliJ IDEA" /></a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img height="50" alt="WebStorm" src="./assets/icons/WebStorm-Dark.svg" title="WebStorm" /></a>
   </div>
   <h5>MANAGEMENT</h3>
   <div>
-    <a href="https://maven.apache.org/" target="_blank"><img height="50" alt="Maven" src="./assets/icons/Maven-Dark.svg" title="Maven" />
-    <a href="https://gradle.org/" target="_blank"><img height="50" alt="Gradle" src="./assets/icons/Gradle-Dark.svg" title="Gradle" />
+    <a href="https://maven.apache.org/" target="_blank"><img height="50" alt="Maven" src="./assets/icons/Maven-Dark.svg" title="Maven" /></a>
+    <a href="https://gradle.org/" target="_blank"><img height="50" alt="Gradle" src="./assets/icons/Gradle-Dark.svg" title="Gradle" /></a>
   </div>
   <h5>BACKEND</h5>
   <div>
-    <a href="https://openjdk.org/" target="_blank"><img height="50" alt="Java" src="./assets/icons/Java-Dark.svg" title="Java" />
-    <a href="https://spring.io/" target="_blank"><img height="50" alt="Spring Framework" src="./assets/icons/Spring-Dark.svg" title="Spring Framework" />
-    <a href="https://nodejs.org/" target="_blank"><img height="50" alt="Node.js" src="./assets/icons/NodeJS-Dark.svg" title="Node.js" />
-    <a href="https://expressjs.com/" target="_blank"><img height="50" alt="Express js" src="./assets/icons/ExpressJS-Dark.svg" title="Express js" />
-    <a href="https://www.typescriptlang.org/" target="_blank"><img height="50" alt="Typescript" src="./assets/icons/TypeScript.svg" title="Typescript" />
+    <a href="https://openjdk.org/" target="_blank"><img height="50" alt="Java" src="./assets/icons/Java-Dark.svg" title="Java" /></a>
+    <a href="https://spring.io/" target="_blank"><img height="50" alt="Spring Framework" src="./assets/icons/Spring-Dark.svg" title="Spring Framework" /></a>
+    <a href="https://nodejs.org/" target="_blank"><img height="50" alt="Node.js" src="./assets/icons/NodeJS-Dark.svg" title="Node.js" /></a>
+    <a href="https://expressjs.com/" target="_blank"><img height="50" alt="Express js" src="./assets/icons/ExpressJS-Dark.svg" title="Express js" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img height="50" alt="Typescript" src="./assets/icons/TypeScript.svg" title="Typescript" /></a>
   </div>
   <h5>FRONTEND</h5>
   <div>
-    <a href="#foto-hab3">
-      <img id="foto-hab3" height="50" alt="FRONTEND" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,react" title="HTML, CSS, Bootstrap, JavaScript, Angular, React" />
-    </a>
+    <a href="https://www.w3.org/html/" target="_blank"><img height="50" alt="HTML 5" src="./assets/icons/HTML.svg" title="HTML 5" /></a>
+    <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img height="50" alt="CSS 3" src="./assets/icons/CSS.svg" title="CSS 3" /></a>
+    <a href="https://getbootstrap.com/" target="_blank"><img height="50" alt="Bootstrap 5" src="./assets/icons/Bootstrap.svg" title="Bootstrap 5" /></a>
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img height="50" alt="JavaScript" src="./assets/icons/JavaScript.svg" title="JavaScript" /></a>
+    <a href="https://angular.io/" target="_blank"><img height="50" alt="Angular" src="./assets/icons/Angular-Dark.svg" title="Angular" /></a>
+    <a href="https://react.dev/" target="_blank"><img height="50" alt="React" src="./assets/icons/React-Dark.svg" title="React" /></a>
   </div>
   <div>
     <a href="#foto-hab4">
