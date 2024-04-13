@@ -62,12 +62,12 @@
   </div>
   <h5>ETC</h5>
   <div>
-    <a href="" target="_blank"><img height="50" alt="Postman" src="./assets/icons/Postman.svg" title="Postman" /></a>
-    <a href="" target="_blank"><img height="50" alt="Git" src="./assets/icons/Git.svg" title="Git" /></a>
-    <a href="" target="_blank"><img height="50" alt="GitHub" src="./assets/icons/Github-Dark.svg" title="GitHub" /></a>
-    <a href="" target="_blank"><img height="50" alt="GitLab" src="./assets/icons/GitLab-Dark.svg" title="GitLab" /></a>
-    <a href="" target="_blank"><img height="50" alt="Docker" src="./assets/icons/Docker.svg" title="Docker" /></a>
-    <a href="" target="_blank"><img height="50" alt="Linux" src="./assets/icons/Linux-Dark.svg" title="Linux" /></a>
+    <a href="https://www.postman.com/" target="_blank"><img height="50" alt="Postman" src="./assets/icons/Postman.svg" title="Postman" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img height="50" alt="Git" src="./assets/icons/Git.svg" title="Git" /></a>
+    <a href="https://github.com/" target="_blank"><img height="50" alt="GitHub" src="./assets/icons/Github-Dark.svg" title="GitHub" /></a>
+    <a href="https://www.gitlab.com/" target="_blank"><img height="50" alt="GitLab" src="./assets/icons/GitLab-Dark.svg" title="GitLab" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img height="50" alt="Docker" src="./assets/icons/Docker.svg" title="Docker" /></a>
+    <a href="https://ubuntu.com/" target="_blank"><img height="50" alt="Linux" src="./assets/icons/Linux-Dark.svg" title="Linux" /></a>
   </div>
   
   <h3>🏫 Formação | Cursos | Bootcamps</h3>
