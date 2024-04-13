@@ -56,7 +56,7 @@
   <div>
     <a href="" target="_blank"><img height="50" alt="MySQL" src="./assets/icons/MySQL-Dark.svg" title="MySQL" /></a>
     <a href="" target="_blank"><img height="50" alt="PostgreSQL" src="./assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" /></a>
-    <a href="" target="_blank"><img height="50" alt="Microsoft SQL Server" src="./assets/icons/" title="Microsoft SQL Server" /></a>
+    <a href="" target="_blank"><img height="50" alt="Microsoft SQL Server" src="./assets/icons/MSSQL.svg" title="Microsoft SQL Server" /></a>
     <a href="" target="_blank"><img height="50" alt="H2 Database" src="./assets/icons/H2.svg" title="H2 Database" /></a>
     <a href="" target="_blank"><img height="50" alt="MongoDB" src="./assets/icons/MongoDB.svg" title="MongoDB" /></a>
   </div>
