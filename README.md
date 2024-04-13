@@ -208,7 +208,7 @@
       <td>Java, Spring Framework e SQL</td>
     </tr>
   </table>
-  <h3><img height="20" src="./assets/Github-Dark.svg" /> GitHub Status</h3>
+  <h3><img height="20" src="./assets/icons/Github-Dark.svg" /> GitHub Status</h3>
   <div>
     <a href="#-github-status">
       <img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" /><img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
