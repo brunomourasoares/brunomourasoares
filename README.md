@@ -52,10 +52,13 @@
     <a href="https://angular.io/" target="_blank"><img height="50" alt="Angular" src="./assets/icons/Angular-Dark.svg" title="Angular" /></a>
     <a href="https://react.dev/" target="_blank"><img height="50" alt="React" src="./assets/icons/React-Dark.svg" title="React" /></a>
   </div>
+  <h5>DATABASE</h5>
   <div>
-    <a href="#foto-hab4">
-      <img id="foto-hab4" height="50" alt="DATABASE" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" title="MySQL, PostgreSQL, MongoDB" />
-    </a>
+    <a href="" target="_blank"><img height="50" alt="MySQL" src="./assets/icons/MySQL-Dark.svg" title="MySQL" /></a>
+    <a href="" target="_blank"><img height="50" alt="PostgreSQL" src="./assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" /></a>
+    <a href="" target="_blank"><img height="50" alt="Microsoft SQL Server" src="./assets/icons/" title="Microsoft SQL Server" /></a>
+    <a href="" target="_blank"><img height="50" alt="H2 Database" src="./assets/icons/H2.svg" title="H2 Database" /></a>
+    <a href="" target="_blank"><img height="50" alt="MongoDB" src="./assets/icons/MongoDB.svg" title="MongoDB" /></a>
   </div>
   <div>
     <a href="#foto-hab5">
