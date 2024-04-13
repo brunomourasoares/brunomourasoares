@@ -60,10 +60,14 @@
     <a href="" target="_blank"><img height="50" alt="H2 Database" src="./assets/icons/H2.svg" title="H2 Database" /></a>
     <a href="" target="_blank"><img height="50" alt="MongoDB" src="./assets/icons/MongoDB.svg" title="MongoDB" /></a>
   </div>
+  <h5>ETC</h5>
   <div>
-    <a href="#foto-hab5">
-      <img id="foto-hab5" height="50" alt="TOOLS" src="https://skillicons.dev/icons?i=postman,git,github,gitlab,docker,linux" title="Postman, Git, GitHub, GitLab, Docker, Linux" />
-    </a>
+    <a href="" target="_blank"><img height="50" alt="Postman" src="./assets/icons/Postman.svg" title="Postman" /></a>
+    <a href="" target="_blank"><img height="50" alt="Git" src="./assets/icons/Git.svg" title="Git" /></a>
+    <a href="" target="_blank"><img height="50" alt="GitHub" src="./assets/icons/Github-Dark.svg" title="GitHub" /></a>
+    <a href="" target="_blank"><img height="50" alt="GitLab" src="./assets/icons/GitLab-Dark.svg" title="GitLab" /></a>
+    <a href="" target="_blank"><img height="50" alt="Docker" src="./assets/icons/Docker.svg" title="Docker" /></a>
+    <a href="" target="_blank"><img height="50" alt="Linux" src="./assets/icons/Linux-Dark.svg" title="Linux" /></a>
   </div>
   
   <h3>🏫 Formação | Cursos | Bootcamps</h3>
