@@ -3,7 +3,9 @@
   <div>
     <h1>Bem vindo ao meu <span title="MUNDO">🌎</span> Git</h1>
     <h3>👋 Olá meu nome é Bruno</h3>
+    <a>
       <img width="600" src="./assets/pixel-jeff-cafe.gif" alt="Foto de um café com estilo pixelado" title="Degustando um café enquanto trabalho!" />
+    </a>
   </div>
   
   <h3>🗪 Contato / Redes Sociais</h3>
