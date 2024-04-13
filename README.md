@@ -23,16 +23,27 @@
   <h3>🚀 Sobre mim</h3>
   <p>Atualmente estou em transição de carreira, buscando uma oportunidade para crescer e melhorar <br> profissionalmente, trabalhar em equipe, criar e colaborar em projetos desafiadores!</p>
   <h3>🧠 Tech Stacks</h3>
+  <h5>IDE</h3>
   <div>
-    <a href="#foto-hab1">
-      <img id="foto-hab1" height="50" alt="IDE" src="https://skillicons.dev/icons?i=eclipse,vscode,idea,maven,gradle" title="Eclipse, VSCode, Intellij, Maven, Gradle" />
-    </a>
+    <a href="https://eclipseide.org/" target="_blank"><img height="50" alt="Eclipse IDE" src="./assets/icons/Eclipse-Dark.svg" title="Eclipse IDE" />
+    <a href="https://code.visualstudio.com/" target="_blank"><img height="50" alt="Visual Studio Code" src="./assets/icons/VSCode-Dark.svg" title="Visual Studio Code" />
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img height="50" alt="IntelliJ IDEA" src="./assets/icons/Idea-Dark.svg" title="IntelliJ IDEA" />
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img height="50" alt="WebStorm" src="./assets/icons/WebStorm-Dark.svg" title="WebStorm" />
   </div>
+  <h5>MANAGEMENT</h3>
   <div>
-    <a href="#foto-hab2">
-      <img id="foto-hab2" height="50" alt="BACKEND" src="https://skillicons.dev/icons?i=java,spring,nodejs,ts" title="Java, Spring, Node.js, TypeScript" />
-    </a>
+    <a href="https://maven.apache.org/" target="_blank"><img height="50" alt="Maven" src="./assets/icons/Maven-Dark.svg" title="Maven" />
+    <a href="https://gradle.org/" target="_blank"><img height="50" alt="Gradle" src="./assets/icons/Gradle-Dark.svg" title="Gradle" />
   </div>
+  <h5>BACKEND</h5>
+  <div>
+    <a href="https://openjdk.org/" target="_blank"><img height="50" alt="Java" src="./assets/icons/Java-Dark.svg" title="Java" />
+    <a href="https://spring.io/" target="_blank"><img height="50" alt="Spring Framework" src="./assets/icons/Spring-Dark.svg" title="Spring Framework" />
+    <a href="https://nodejs.org/" target="_blank"><img height="50" alt="Node.js" src="./assets/icons/NodeJS-Dark.svg" title="Node.js" />
+    <a href="https://expressjs.com/" target="_blank"><img height="50" alt="Express js" src="./assets/icons/ExpressJS-Dark.svg" title="Express js" />
+    <a href="https://www.typescriptlang.org/" target="_blank"><img height="50" alt="Typescript" src="./assets/icons/TypeScript.svg" title="Typescript" />
+  </div>
+  <h5>FRONTEND</h5>
   <div>
     <a href="#foto-hab3">
       <img id="foto-hab3" height="50" alt="FRONTEND" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,react" title="HTML, CSS, Bootstrap, JavaScript, Angular, React" />
