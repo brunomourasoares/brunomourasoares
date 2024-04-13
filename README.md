@@ -10,10 +10,14 @@
   
   <h3>🗪 Contato / Redes Sociais</h3>
   <div>
-    <a href="mailto:brunomourasoares@gmail.com" target="_blank"><img height="30" alt="E-mail" src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" title="E-mail" /></a>&nbsp;
-    <a href="https://linkedin.com/in/brunomsoares" target="_blank"><img height="30" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>&nbsp;
-    <a href="https://www.instagram.com/brunomourasoares/" target="_blank"><img height="30" alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" /></a>&nbsp;
-    <a href="https://twitter.com/BMouraSoares" target="_blank"><img height="30" alt="Twitter X" src="https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black" title="Twitter X" /></a>
+    <a href="mailto:brunomourasoares@gmail.com" target="_blank">
+      <img height="30" alt="E-mail" src="./assets/icons/Gmail-Dark.svg" title="E-mail" /></a>&nbsp;
+    <a href="https://linkedin.com/in/brunomsoares" target="_blank">
+      <img height="30" alt="LinkedIn" src="./assets/icons/LinkedIn.svg" title="LinkedIn" /></a>&nbsp;
+    <a href="https://www.instagram.com/brunomourasoares/" target="_blank">
+      <img height="30" alt="Instagram" src="./assets/icons/Instagram.svg" title="Instagram" /></a>&nbsp;
+    <a href="https://twitter.com/BMouraSoares" target="_blank">
+      <img height="30" alt="Twitter X" src="./assets/icons/X.svg" title="Twitter X" /></a>
   </div>
   
   <h3>🚀 Sobre mim</h3>
@@ -57,97 +61,97 @@
     <th>Certificado</th>
   </tr>
     <tr align="center">
-    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
     <td>Basic FrontEnd</td>
     <td>240</td>
     <td>HTML5 | CSS3 | JavaScript | Bootstrap | UX | Ágil</td>
     <td><a href="https://microcertificado.descomplica.com.br/a8017175deaf8cf201713d658f3bcaa11ff5a6fefff15967438ba90d609e336e.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Basic FrontEnd" title="Certificado Basic FrontEnd" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação Java Developer</td>
     <td>76</td>
     <td>Java | Spring</td>
     <td><a href="https://www.dio.me/certificate/D7FDC409" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Java Developer" title="Certificado Java Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Bootcamp Spring Framework Experience</td>
     <td>50</td>
     <td>Java | Spring</td>
     <td><a href="https://www.dio.me/certificate/8DBCF0E3" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Spring Framework Experience" title="Certificado Spring Framework Experience" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Bootcamp Santander Fullstack</td>
     <td>115</td>
     <td>Java | Javascript | Angular | SQL | NoSQL</td>
     <td><a href="https://www.dio.me/certificate/8545B37B" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp Santander Fullstack Developer" title="Certificado Bootcamp Santander Fullstack Developer" width="40" /></a></td>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Bootcamp GFT e AWS</td>
     <td>65</td>
     <td>Java | Spring | SQL | NoSQL | AWS</td>
     <td><a href="https://www.dio.me/certificate/C1695DE3" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp GFT e AWS" title="Bootcamp GFT e AWS" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Bootcamp Banco PAN Java Developer</td>
     <td>114</td>
     <td>Java | Spring | SQL | NoSQL</td>
     <td><a href="https://www.dio.me/certificate/E73819D3" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp Banco PAN Java Developer" title="Bootcamp Banco PAN Java Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação SQL Database Specialist</td>
     <td>72</td>
     <td>MySQL | PostgreSQL | MongoDB</td>
     <td><a href="https://www.dio.me/certificate/" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação SQL Database Specialist" title="Formação SQL Database Specialist" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação JavaScript Developer</td>
     <td>39</td>
     <td>HTML | CSS | JS</td>
     <td><a href="https://www.dio.me/certificate/544B6C1D" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação JavaScript Developer" title="Formação JavaScript Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação HTML Web Developer</td>
     <td>21</td>
     <td>HTML 5</td>
     <td><a href="https://www.dio.me/certificate/9F89C81A" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação HTML Web Developer" title="Formação HTML Web Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação CSS Web Developer</td>
     <td>48</td>
     <td>HTML5 | CSS3</td>
     <td><a href="https://www.dio.me/certificate/4E05D222" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação CSS Web Developer" title="Formação CSS Web Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação Scrum Master</td>
     <td>22</td>
     <td>Scrum | Agile</td>
     <td><a href="https://www.dio.me/certificate/25172941" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Scrum Master" title="Formação Scrum Master" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação CI/CD</td>
     <td>13</td>
     <td>Git | GitLab | GCP</td>
     <td><a href="https://www.dio.me/certificate/3D45867E" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação CI/CD" title="Formação CI/CD" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação ChatGPT for Devs</td>
     <td>18</td>
     <td>ChatGPT</td>
     <td><a href="https://www.dio.me/certificate/9DB6FD3F" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação ChatGPT for Devs" title="Formação ChatGPT for Devs" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://dio.me/" target="_blank"><img src="./assets/dio.me.jpg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação Linux Fundamentals</td>
     <td>23</td>
     <td>Ubuntu Server | Desktop</td>
