@@ -54,11 +54,11 @@
   </div>
   <h5>DATABASE</h5>
   <div>
-    <a href="" target="_blank"><img height="50" alt="MySQL" src="./assets/icons/MySQL-Dark.svg" title="MySQL" /></a>
-    <a href="" target="_blank"><img height="50" alt="PostgreSQL" src="./assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" /></a>
-    <a href="" target="_blank"><img height="50" alt="Microsoft SQL Server" src="./assets/icons/MSSQL.svg" title="Microsoft SQL Server" /></a>
-    <a href="" target="_blank"><img height="50" alt="H2 Database" src="./assets/icons/H2.svg" title="H2 Database" /></a>
-    <a href="" target="_blank"><img height="50" alt="MongoDB" src="./assets/icons/MongoDB.svg" title="MongoDB" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img height="50" alt="MySQL" src="./assets/icons/MySQL-Dark.svg" title="MySQL" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img height="50" alt="PostgreSQL" src="./assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" /></a>
+    <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"><img height="50" alt="Microsoft SQL Server" src="./assets/icons/MSSQL.svg" title="Microsoft SQL Server" /></a>
+    <a href="https://www.h2database.com/" target="_blank"><img height="50" alt="H2 Database" src="./assets/icons/H2.svg" title="H2 Database" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img height="50" alt="MongoDB" src="./assets/icons/MongoDB.svg" title="MongoDB" /></a>
   </div>
   <h5>ETC</h5>
   <div>
@@ -68,6 +68,41 @@
     <a href="https://www.gitlab.com/" target="_blank"><img height="50" alt="GitLab" src="./assets/icons/GitLab-Dark.svg" title="GitLab" /></a>
     <a href="https://www.docker.com/" target="_blank"><img height="50" alt="Docker" src="./assets/icons/Docker.svg" title="Docker" /></a>
     <a href="https://ubuntu.com/" target="_blank"><img height="50" alt="Linux" src="./assets/icons/Linux-Dark.svg" title="Linux" /></a>
+  </div>
+  
+  <h3><a href="#"><img height="20" src="./assets/repository.png" /></a> Principais Repositórios</h3>
+  <table>
+    <tr align="center">
+      <th>Nome do Repositório</th>
+      <th>Descrição</th>
+      <th>Tecnologias</th>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/brunomourasoares/portfolio/" target="_blank" title="Portifolio">Portfolio</a></td>
+      <td>Uma página estática sobre minha trajetória profissional.</td>
+      <td>HTML5, CSS3, Bootstrap e Javascript</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/brunomourasoares/badarantwiki/" target="_blank" title="Badarant Wiki">Badarant Wiki</a></td>
+      <td>Uma página sobre o jogo Valorant consumindo uma API com informações sobre o jogo.</td>
+      <td>HTML5, CSS3, Bootstrap, Javascript e Node.js com Express</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/brunomourasoares/myaccess/" target="_blank" title="MyAccess Desktop - Controle de Acesso">MyAccess Desktop</a></td>
+      <td>Uma programa feito em java para controlar entrada e saida de pessoas e veículos.</td>
+      <td>Java, JavaFX e SQL</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/brunomourasoares/myaccessweb/" target="_blank" title="MyAccess Web - Controle de Acesso">MyAccess Web</a></td>
+      <td>API Rest para controlar a entrada e saída de pessoas e veículos. </td>
+      <td>Java, Spring Framework e SQL</td>
+    </tr>
+  </table>
+  <h3><img height="20" src="./assets/icons/Github-Dark.svg" /> GitHub Status</h3>
+  <div>
+    <a href="#-github-status">
+      <img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" /><img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
+    </a>
   </div>
   
   <h3>🏫 Formação | Cursos | Bootcamps</h3>
@@ -179,39 +214,4 @@
     <td><a href="https://www.dio.me/certificate/OWGTVMRV" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Linux Fundamentals" title="Formação Linux Fundamentals" width="40" /></a></td>
   </tr>
   </table>
-  
-  <h3><a href="#"><img height="20" src="./assets/repository.png" /></a> Principais Repositórios</h3>
-  <table>
-    <tr align="center">
-      <th>Nome do Repositório</th>
-      <th>Descrição</th>
-      <th>Tecnologias</th>
-    </tr>
-    <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/portfolio/" target="_blank" title="Portifolio">Portfolio</a></td>
-      <td>Uma página estática sobre minha trajetória profissional.</td>
-      <td>HTML5, CSS3, Bootstrap e Javascript</td>
-    </tr>
-    <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/badarantwiki/" target="_blank" title="Badarant Wiki">Badarant Wiki</a></td>
-      <td>Uma página sobre o jogo Valorant consumindo uma API com informações sobre o jogo.</td>
-      <td>HTML5, CSS3, Bootstrap, Javascript e Node.js com Express</td>
-    </tr>
-    <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/myaccess/" target="_blank" title="MyAccess Desktop - Controle de Acesso">MyAccess Desktop</a></td>
-      <td>Uma programa feito em java para controlar entrada e saida de pessoas e veículos.</td>
-      <td>Java, JavaFX e SQL</td>
-    </tr>
-    <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/myaccessweb/" target="_blank" title="MyAccess Web - Controle de Acesso">MyAccess Web</a></td>
-      <td>API Rest para controlar a entrada e saída de pessoas e veículos. </td>
-      <td>Java, Spring Framework e SQL</td>
-    </tr>
-  </table>
-  <h3><img height="20" src="./assets/icons/Github-Dark.svg" /> GitHub Status</h3>
-  <div>
-    <a href="#-github-status">
-      <img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" /><img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
-    </a>
-  </div>
 </div>
