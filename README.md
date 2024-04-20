@@ -213,5 +213,12 @@
     <td>Ubuntu Server | Desktop</td>
     <td><a href="https://www.dio.me/certificate/OWGTVMRV" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Linux Fundamentals" title="Formação Linux Fundamentals" width="40" /></a></td>
   </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Formação GitHub Certification</td>
+    <td>10</td>
+    <td>GitHub</td>
+    <td><a href="https://www.dio.me/certificate/JMZ32OW6" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação GitHub Certification" title="Formação GitHub Certification" width="40" /></a></td>
+  </tr>
   </table>
 </div>
