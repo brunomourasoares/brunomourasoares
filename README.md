@@ -168,14 +168,14 @@
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação JavaScript Developer</td>
     <td>39</td>
-    <td>HTML | CSS | JS</td>
+    <td>HTML5 | CSS3 | JS</td>
     <td><a href="https://www.dio.me/certificate/544B6C1D" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação JavaScript Developer" title="Formação JavaScript Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação HTML Web Developer</td>
     <td>21</td>
-    <td>HTML 5</td>
+    <td>HTML5</td>
     <td><a href="https://www.dio.me/certificate/9F89C81A" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação HTML Web Developer" title="Formação HTML Web Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
