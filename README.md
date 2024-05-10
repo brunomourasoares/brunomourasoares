@@ -116,13 +116,20 @@
     <th>Tecnologias</th>
     <th>Certificado</th>
   </tr>
-    <tr align="center">
+  <tr align="center">
     <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
     <td>Basic FrontEnd</td>
     <td>240</td>
     <td>HTML5 | CSS3 | JavaScript | Bootstrap | UX | Ágil</td>
     <td><a href="https://microcertificado.descomplica.com.br/a8017175deaf8cf201713d658f3bcaa11ff5a6fefff15967438ba90d609e336e.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Basic FrontEnd" title="Certificado Basic FrontEnd" width="40" /></a></td>
   </tr>
+  <tr align="center">
+    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td>Programmer</td>
+    <td>160</td>
+    <td>Algoritmo | Portugol | Java</td>
+    <td><a href="https://microcertificado.descomplica.com.br/9fa90c51c69de67bbbbcb67417a5071564436289bd803ebf67705ac5ed96bc72.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Programmer" title="Certificado Programmer" width="40" /></a></td>
+  </tr> 
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação Java Developer</td>
