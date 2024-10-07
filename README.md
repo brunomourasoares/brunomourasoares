@@ -234,5 +234,29 @@
     <td>GitHub</td>
     <td><a href="https://www.dio.me/certificate/JMZ32OW6" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação GitHub Certification" title="Formação GitHub Certification" width="40" /></a></td>
   </tr>
+      </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Bootcamp Santander 2024 - Preparatório Certificação AWS</td>
+    <td>35</td>
+    <td>AWS</td>
+    <td><a href="https://www.dio.me/certificate/TRXZVUUG" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp Santander 2024 - Preparatório Certificação AWS" title="Bootcamp Santander 2024 - Preparatório Certificação AWS" width="40" /></a></td>
+  </tr>
+      </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Formação Node.js Fundamentals</td>
+    <td>30</td>
+    <td>JavaScript | Node.js | Express.js | Fastify</td>
+    <td><a href="https://www.dio.me/certificate/BRUJ61HZ" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Node.js Fundamentals" title="Formação Formação Node.js Fundamentals" width="40" /></a></td>
+  </tr>
+      </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Formação TypeScript Full Stack Developer</td>
+    <td>44</td>
+    <td>JavaScript | TypeScript | Node.js | React</td>
+    <td><a href="https://www.dio.me/certificate/OUOJYDZQ" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação TypeScript Full Stack Developer" title="Formação TypeScript Full Stack Developer" width="40" /></a></td>
+  </tr>
   </table>
 </div>
