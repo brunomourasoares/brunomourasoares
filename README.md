@@ -78,7 +78,7 @@
       <th>Tecnologias</th>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/portfolio/" target="_blank" title="Portifolio">Portfolio</a></td>
+      <td><a href="https://github.com/brunomourasoares/portfolio/" target="_blank" title="Portfolio">Portfolio</a></td>
       <td>Uma página estática sobre minha trajetória profissional.</td>
       <td>HTML5, CSS3, Bootstrap e Javascript</td>
     </tr>
@@ -94,8 +94,13 @@
     </tr>
     <tr align="center">
       <td><a href="https://github.com/brunomourasoares/myaccessweb/" target="_blank" title="MyAccess Web - Controle de Acesso">MyAccess Web</a></td>
-      <td>API Rest para controlar a entrada e saída de pessoas e veículos. </td>
+      <td>API Rest para controlar a entrada e saída de pessoas e veículos.</td>
       <td>Java, Spring Framework e SQL</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/brunomourasoares/fileopener/" target="_blank" title="File Opener">File Opener</a></td>
+      <td>Este programa é usado para iniciar executáveis ​​com atraso personalizável.</td>
+      <td>Java</td>
     </tr>
   </table>
   <h3><img height="20" src="./assets/icons/Github-Dark.svg" /> GitHub Status</h3>
@@ -130,7 +135,7 @@
     <td>Lógica de Programação | Empreendedorismo e Criação de Novos Negócios</td>
     <td><a href="https://microcertificado.descomplica.com.br/9fa90c51c69de67bbbbcb67417a5071564436289bd803ebf67705ac5ed96bc72.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Programmer" title="Certificado Programmer" width="40" /></a></td>
   </tr>
-      <tr align="center">
+  <tr align="center">
     <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
     <td>Object-Oriented Developer</td>
     <td>240</td>
@@ -234,7 +239,6 @@
     <td>GitHub</td>
     <td><a href="https://www.dio.me/certificate/JMZ32OW6" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação GitHub Certification" title="Formação GitHub Certification" width="40" /></a></td>
   </tr>
-      </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Bootcamp Santander 2024 - Preparatório Certificação AWS</td>
@@ -242,7 +246,6 @@
     <td>AWS</td>
     <td><a href="https://www.dio.me/certificate/TRXZVUUG" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp Santander 2024 - Preparatório Certificação AWS" title="Bootcamp Santander 2024 - Preparatório Certificação AWS" width="40" /></a></td>
   </tr>
-      </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação Node.js Fundamentals</td>
@@ -250,7 +253,6 @@
     <td>JavaScript | Node.js | Express.js | Fastify</td>
     <td><a href="https://www.dio.me/certificate/BRUJ61HZ" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Node.js Fundamentals" title="Formação Formação Node.js Fundamentals" width="40" /></a></td>
   </tr>
-      </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação TypeScript Full Stack Developer</td>
