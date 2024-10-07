@@ -133,7 +133,7 @@
       <tr align="center">
     <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
     <td>Object-Oriented Developer</td>
-    <td>160</td>
+    <td>240</td>
     <td>Programação 1 | Estruturas de Dados para Sistemas Inteligentes | Design de Software</td>
     <td><a href="https://microcertificado.descomplica.com.br/b91da76f757723a10e58831d3c458d25707f291c0e4f3f36210532d8e6a25003.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Object-Oriented Developer" title="Certificado Object-Oriented Developer" width="40" /></a></td>
   </tr>
