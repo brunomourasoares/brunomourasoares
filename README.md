@@ -21,7 +21,7 @@
   </div>
   
   <h3>🚀 Sobre mim</h3>
-  <p>Atualmente estou em transição de carreira, buscando uma oportunidade para crescer e melhorar <br> profissionalmente, trabalhar em equipe, criar e colaborar em projetos desafiadores!</p>
+  <p>Desenvolvedor, Apaixonado por Tecnologia, Games, Animes e Series</p>
   <h3>🧠 Tech Stacks</h3>
   <h5>IDE</h3>
   <div>
