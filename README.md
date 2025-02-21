@@ -143,6 +143,13 @@
     <td><a href="https://microcertificado.descomplica.com.br/b91da76f757723a10e58831d3c458d25707f291c0e4f3f36210532d8e6a25003.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Object-Oriented Developer" title="Certificado Object-Oriented Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
+    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td>FrontEnd Developer</td>
+    <td>240</td>
+    <td>Arquitetura de Computadores do Século XXI | Desenvolvimento Mobile | Programação II</td>
+    <td><a href="https://microcertificado.descomplica.com.br/e320e066967a7f97dee2ef2a128ced2ba6095065d47b2629662d34a50b2d5205.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Object-Oriented Developer" title="Certificado Object-Oriented Developer" width="40" /></a></td>
+  </tr>
+  <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
     <td>Formação Java Developer</td>
     <td>76</td>
