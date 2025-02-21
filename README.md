@@ -288,5 +288,19 @@
     <td>Java | Spring Boot | Angular</td>
     <td><a href="https://www.dio.me/certificate/U5B7WCFP" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp Deal - Spring e Angular" title="Certificado Bootcamp Deal - Spring e Angular" width="40" /></a></td>
   </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Formação SQL Database Specialist</td>
+    <td>72</td>
+    <td>MySQL | PostgreSQL</td>
+    <td><a href="https://www.dio.me/certificate/A1ZU10NH" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação SQL Database Specialist" title="Certificado Formação SQL Database Specialist" width="40" /></a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Formação PHP Experience</td>
+    <td>40</td>
+    <td>PHP | Laravel</td>
+    <td><a href="https://www.dio.me/certificate/DVDZVOG4" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação PHP Experience" title="Certificado Formação PHP Experience" width="40" /></a></td>
+  </tr>
   </table>
 </div>
