@@ -260,5 +260,33 @@
     <td>JavaScript | TypeScript | Node.js | React</td>
     <td><a href="https://www.dio.me/certificate/OUOJYDZQ" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação TypeScript Full Stack Developer" title="Formação TypeScript Full Stack Developer" width="40" /></a></td>
   </tr>
+    <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Formação Docker Fundamentals</td>
+    <td>15</td>
+    <td>Linux | Docker </td>
+    <td><a href="https://www.dio.me/certificate/AQRKMKMI" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Formação Docker Fundamentals" title="Formação Docker Fundamentals" width="40" /></a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Bootcamp Claro - Java com Spring Boot</td>
+    <td>75</td>
+    <td>Java | Spring Boot | Angular</td>
+    <td><a href="https://www.dio.me/certificate/NNO7YLKA" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp Claro - Java com Spring Boot" title="Certificado Bootcamp Claro - Java com Spring Boot" width="40" /></a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Bootcamp Microsoft Copilot</td>
+    <td>29</td>
+    <td>JavaScript | TypeScript | Node.js</td>
+    <td><a href="https://www.dio.me/certificate/IWEPMXIW" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Bootcamp Microsoft Copilot" title="Certificado Bootcamp Microsoft Copilot" width="40" /></a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
+    <td>Bootcamp Deal - Spring e Angular</td>
+    <td>91</td>
+    <td>Java | Spring Boot | Angular</td>
+    <td><a href="https://www.dio.me/certificate/U5B7WCFP" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Bootcamp Deal - Spring e Angular" title="Certificado Bootcamp Deal - Spring e Angular" width="40" /></a></td>
+  </tr>
   </table>
 </div>
