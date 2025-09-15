@@ -164,7 +164,10 @@
     <td><a href="https://microcertificado.descomplica.com.br/e94e015ceb081a32370793d9b65baf92469d71b0d9ea6761678b6bd8861e2a98.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Full Stack Developer" title="Certificado Full Stack Developer" width="40" /></a></td>
   </tr>
   <tr align="center">
-    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td>
+      
+[![Descomplica](./assets/icons/Descomplica.svg)](https://descomplica.com.br/)
+    </td>
     <td>DevOps Strategist</td>
     <td>240</td>
     <td>DevOps I | DevOps II | Prática Integradora Computação em Nuvem</td>
