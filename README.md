@@ -171,7 +171,7 @@
     <td>DevOps Strategist</td>
     <td>240</td>
     <td>DevOps I | DevOps II | Prática Integradora Computação em Nuvem</td>
-    <td><a href="https://microcertificado.descomplica.com.br/cfffa68e2b348c948efc86ca1d7eb416858958502085497c43984713be9fa577.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado DevOps Strategist" title="Certificado DevOps Strategist" width="40" /></a></td>
+    <td><a href="https://microcertificado.descomplica.com.br/cfffa68e2b348c948efc86ca1d7eb416858958502085497c43984713be9fa577.png" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado DevOps Strategist" title="Certificado DevOps Strategist" width="40" /></a></td>
   </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
