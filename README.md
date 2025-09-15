@@ -1,76 +1,129 @@
 <div align="center">
+
+# Bem vindo ao meu <span title="MUNDO">🌎</span> Git
+### 👋 Olá meu nome é Bruno
+
+[<img width="600" alt="Foto de um café com estilo pixelado" src="./assets/pixel-jeff-cafe.gif" title="Degustando um café enquanto trabalho!" />](#)
+  
+### 🗪 Contato / Redes Sociais
+ 
+[<img height="50" alt="E-mail" src="./assets/icons/Gmail-Dark.svg" title="E-mail" />](mailto:brunomourasoares@gmail.com) 
+[<img height="50" alt="LinkedIn" src="./assets/icons/LinkedIn.svg" title="LinkedIn" />](https://linkedin.com/in/brunomsoares) 
+[<img height="50" alt="Instagram" src="./assets/icons/Instagram.svg" title="Instagram" />](https://www.instagram.com/brunomourasoares/) 
+[<img height="50" alt="Twitter X" src="./assets/icons/X.svg" title="Twitter X" />](https://twitter.com/BMouraSoares)
+  
+### 🚀 Sobre mim
+Desenvolvedor, Apaixonado por Tecnologia, Games, Animes e Series
+  
+### 🧠 Tech Stacks
+#### IDE
+
+[<img height="50" alt="Eclipse IDE" src="./assets/icons/Eclipse-Dark.svg" title="Eclipse IDE" />](https://eclipseide.org/)
+[<img height="50" alt="Visual Studio Code" src="./assets/icons/VSCode-Dark.svg" title="Visual Studio Code" />](https://code.visualstudio.com/)
+[<img height="50" alt="IntelliJ IDEA" src="./assets/icons/Idea-Dark.svg" title="IntelliJ IDEA" />](https://www.jetbrains.com/idea/)
+[<img height="50" alt="WebStorm" src="./assets/icons/WebStorm-Dark.svg" title="WebStorm" />](https://www.jetbrains.com/webstorm/)
+
+#### MANAGEMENT
   
   <div>
-    <h1>Bem vindo ao meu <span title="MUNDO">🌎</span> Git</h1>
-    <h3>👋 Olá meu nome é Bruno</h3>
-    <a href="#foto-cafe">
-      <img id="foto-cafe" width="600" src="./assets/pixel-jeff-cafe.gif" alt="Foto de um café com estilo pixelado" title="Degustando um café enquanto trabalho!" />
+    <a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Maven" src="./assets/icons/Maven-Dark.svg" title="Maven" />
+    </a>
+    <a href="https://gradle.org/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Gradle" src="./assets/icons/Gradle-Dark.svg" title="Gradle" />
     </a>
   </div>
   
-  <h3>🗪 Contato / Redes Sociais</h3>
+  <h5>BACKEND</h5>
+  
   <div>
-    <a href="mailto:brunomourasoares@gmail.com" target="_blank">
-      <img height="30" alt="E-mail" src="./assets/icons/Gmail-Dark.svg" title="E-mail" /></a>&nbsp;
-    <a href="https://linkedin.com/in/brunomsoares" target="_blank">
-      <img height="30" alt="LinkedIn" src="./assets/icons/LinkedIn.svg" title="LinkedIn" /></a>&nbsp;
-    <a href="https://www.instagram.com/brunomourasoares/" target="_blank">
-      <img height="30" alt="Instagram" src="./assets/icons/Instagram.svg" title="Instagram" /></a>&nbsp;
-    <a href="https://twitter.com/BMouraSoares" target="_blank">
-      <img height="30" alt="Twitter X" src="./assets/icons/X.svg" title="Twitter X" /></a>
+    <a href="https://openjdk.org/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Java" src="./assets/icons/Java-Dark.svg" title="Java" />
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Spring Framework" src="./assets/icons/Spring-Dark.svg" title="Spring Framework" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Node.js" src="./assets/icons/NodeJS-Dark.svg" title="Node.js" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Express js" src="./assets/icons/ExpressJS-Dark.svg" title="Express js" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Typescript" src="./assets/icons/TypeScript.svg" title="Typescript" />
+    </a>
   </div>
   
-  <h3>🚀 Sobre mim</h3>
-  <p>Desenvolvedor, Apaixonado por Tecnologia, Games, Animes e Series</p>
-  <h3>🧠 Tech Stacks</h3>
-  <h5>IDE</h3>
-  <div>
-    <a href="https://eclipseide.org/" target="_blank"><img height="50" alt="Eclipse IDE" src="./assets/icons/Eclipse-Dark.svg" title="Eclipse IDE" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img height="50" alt="Visual Studio Code" src="./assets/icons/VSCode-Dark.svg" title="Visual Studio Code" /></a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img height="50" alt="IntelliJ IDEA" src="./assets/icons/Idea-Dark.svg" title="IntelliJ IDEA" /></a>
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img height="50" alt="WebStorm" src="./assets/icons/WebStorm-Dark.svg" title="WebStorm" /></a>
-  </div>
-  <h5>MANAGEMENT</h3>
-  <div>
-    <a href="https://maven.apache.org/" target="_blank"><img height="50" alt="Maven" src="./assets/icons/Maven-Dark.svg" title="Maven" /></a>
-    <a href="https://gradle.org/" target="_blank"><img height="50" alt="Gradle" src="./assets/icons/Gradle-Dark.svg" title="Gradle" /></a>
-  </div>
-  <h5>BACKEND</h5>
-  <div>
-    <a href="https://openjdk.org/" target="_blank"><img height="50" alt="Java" src="./assets/icons/Java-Dark.svg" title="Java" /></a>
-    <a href="https://spring.io/" target="_blank"><img height="50" alt="Spring Framework" src="./assets/icons/Spring-Dark.svg" title="Spring Framework" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img height="50" alt="Node.js" src="./assets/icons/NodeJS-Dark.svg" title="Node.js" /></a>
-    <a href="https://expressjs.com/" target="_blank"><img height="50" alt="Express js" src="./assets/icons/ExpressJS-Dark.svg" title="Express js" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img height="50" alt="Typescript" src="./assets/icons/TypeScript.svg" title="Typescript" /></a>
-  </div>
   <h5>FRONTEND</h5>
+  
   <div>
-    <a href="https://www.w3.org/html/" target="_blank"><img height="50" alt="HTML 5" src="./assets/icons/HTML.svg" title="HTML 5" /></a>
-    <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img height="50" alt="CSS 3" src="./assets/icons/CSS.svg" title="CSS 3" /></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img height="50" alt="Bootstrap 5" src="./assets/icons/Bootstrap.svg" title="Bootstrap 5" /></a>
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img height="50" alt="JavaScript" src="./assets/icons/JavaScript.svg" title="JavaScript" /></a>
-    <a href="https://angular.io/" target="_blank"><img height="50" alt="Angular" src="./assets/icons/Angular-Dark.svg" title="Angular" /></a>
-    <a href="https://react.dev/" target="_blank"><img height="50" alt="React" src="./assets/icons/React-Dark.svg" title="React" /></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="HTML 5" src="./assets/icons/HTML.svg" title="HTML 5" />
+    </a>
+    <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="CSS 3" src="./assets/icons/CSS.svg" title="CSS 3" />
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Bootstrap 5" src="./assets/icons/Bootstrap.svg" title="Bootstrap 5" />
+    </a>
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="JavaScript" src="./assets/icons/JavaScript.svg" title="JavaScript" />
+    </a>
+    <a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Angular" src="./assets/icons/Angular-Dark.svg" title="Angular" />
+    </a>
+    <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="React" src="./assets/icons/React-Dark.svg" title="React" />
+    </a>
   </div>
+  
   <h5>DATABASE</h5>
+  
   <div>
-    <a href="https://www.mysql.com/" target="_blank"><img height="50" alt="MySQL" src="./assets/icons/MySQL-Dark.svg" title="MySQL" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img height="50" alt="PostgreSQL" src="./assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" /></a>
-    <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"><img height="50" alt="Microsoft SQL Server" src="./assets/icons/MSSQL.svg" title="Microsoft SQL Server" /></a>
-    <a href="https://www.h2database.com/" target="_blank"><img height="50" alt="H2 Database" src="./assets/icons/H2.svg" title="H2 Database" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img height="50" alt="MongoDB" src="./assets/icons/MongoDB.svg" title="MongoDB" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="MySQL" src="./assets/icons/MySQL-Dark.svg" title="MySQL" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="PostgreSQL" src="./assets/icons/PostgreSQL-Dark.svg" title="PostgreSQL" />
+    </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Microsoft SQL Server" src="./assets/icons/MSSQL.svg" title="Microsoft SQL Server" />
+    </a>
+    <a href="https://www.h2database.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="H2 Database" src="./assets/icons/H2.svg" title="H2 Database" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="MongoDB" src="./assets/icons/MongoDB.svg" title="MongoDB" />
+    </a>
   </div>
+  
   <h5>ETC</h5>
+
+  [⬅️ Voltar ao início](#inicio) 
+  
   <div>
-    <a href="https://www.postman.com/" target="_blank"><img height="50" alt="Postman" src="./assets/icons/Postman.svg" title="Postman" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img height="50" alt="Git" src="./assets/icons/Git.svg" title="Git" /></a>
-    <a href="https://github.com/" target="_blank"><img height="50" alt="GitHub" src="./assets/icons/Github-Dark.svg" title="GitHub" /></a>
-    <a href="https://www.gitlab.com/" target="_blank"><img height="50" alt="GitLab" src="./assets/icons/GitLab-Dark.svg" title="GitLab" /></a>
-    <a href="https://www.docker.com/" target="_blank"><img height="50" alt="Docker" src="./assets/icons/Docker.svg" title="Docker" /></a>
-    <a href="https://ubuntu.com/" target="_blank"><img height="50" alt="Linux" src="./assets/icons/Linux-Dark.svg" title="Linux" /></a>
+    <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Postman" src="./assets/icons/Postman.svg" title="Postman" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Git" src="./assets/icons/Git.svg" title="Git" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="GitHub" src="./assets/icons/Github-Dark.svg" title="GitHub" />
+    </a>
+    <a href="https://www.gitlab.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="GitLab" src="./assets/icons/GitLab-Dark.svg" title="GitLab" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Docker" src="./assets/icons/Docker.svg" title="Docker" />
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer">
+      <img height="50" alt="Linux" src="./assets/icons/Linux-Dark.svg" title="Linux" />
+    </a>
   </div>
   
   <h3><a href="#"><img height="20" src="./assets/repository.png" /></a> Principais Repositórios</h3>
+  
   <table>
     <tr align="center">
       <th>Nome do Repositório</th>
@@ -78,35 +131,58 @@
       <th>Tecnologias</th>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/portfolio/" target="_blank" title="Portfolio">Portfolio</a></td>
+      <td>
+        <a href="https://github.com/brunomourasoares/portfolio/" target="_blank" rel="noopener noreferrer" title="Portfolio">
+          Portfolio
+        </a>
+      </td>
       <td>Uma página estática sobre minha trajetória profissional.</td>
       <td>HTML5, CSS3, Bootstrap e Javascript</td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/badarantwiki/" target="_blank" title="Badarant Wiki">Badarant Wiki</a></td>
+      <td>
+        <a href="https://github.com/brunomourasoares/badarantwiki/" target="_blank" rel="noopener noreferrer" title="Badarant Wiki">
+          Badarant Wiki
+        </a>
+      </td>
       <td>Uma página sobre o jogo Valorant consumindo uma API com informações sobre o jogo.</td>
       <td>HTML5, CSS3, Bootstrap, Javascript e Node.js com Express</td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/myaccess/" target="_blank" title="MyAccess Desktop - Controle de Acesso">MyAccess Desktop</a></td>
+      <td>
+        <a href="https://github.com/brunomourasoares/myaccess/" target="_blank" rel="noopener noreferrer" title="MyAccess Desktop - Controle de Acesso">
+          MyAccess Desktop
+        </a>
+      </td>
       <td>Uma programa feito em java para controlar entrada e saida de pessoas e veículos.</td>
       <td>Java, JavaFX e SQL</td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/myaccessweb/" target="_blank" title="MyAccess Web - Controle de Acesso">MyAccess Web</a></td>
+      <td>
+        <a href="https://github.com/brunomourasoares/myaccessweb/" target="_blank" rel="noopener noreferrer" title="MyAccess Web - Controle de Acesso">
+          MyAccess Web
+        </a>
+      </td>
       <td>API Rest para controlar a entrada e saída de pessoas e veículos.</td>
       <td>Java, Spring Framework e SQL</td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/brunomourasoares/fileopener/" target="_blank" title="File Opener">File Opener</a></td>
+      <td>
+        <a href="https://github.com/brunomourasoares/fileopener/" target="_blank" rel="noopener noreferrer" title="File Opener">
+          File Opener
+        </a>
+      </td>
       <td>Este programa é usado para iniciar executáveis ​​com atraso personalizável.</td>
       <td>Java</td>
     </tr>
   </table>
+  
   <h3><img height="20" src="./assets/icons/Github-Dark.svg" /> GitHub Status</h3>
+
   <div>
-    <a href="#-github-status">
-      <img height="200" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" /><img width="383" height="200" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
+    <a href="#">
+      <img width="383" height="195" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=brunomourasoares&show_icons=true&hide_rank=true&theme=github_dark&include_all_commits=true&count_private=true" title="GitHub Status" />
+      <img width="383" height="195" alt="Linguagem mais usada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=20&theme=github_dark" title="Linguagem mais usada" />
     </a>
   </div>
   
@@ -114,64 +190,117 @@
 
   ``` Análise e Desenvolvimento de Sistemas - Faculdade Descomplica - 2026 ```
   <table>
-  <tr>
-    <th>Plataforma</th>
-    <th>Curso</th>
-    <th>Horas</th>
-    <th>Tecnologias</th>
-    <th>Certificado</th>
-  </tr>
+    <tr>
+      <th>Plataforma</th>
+      <th>Curso</th>
+      <th>Horas</th>
+      <th>Tecnologias</th>
+      <th>Certificado</th>
+    </tr>
+    <tr align="center">
+      <td>
+        <a href="https://descomplica.com.br/" target="_blank" rel="noopener noreferrer">
+          <img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" />
+        </a>
+      </td>
+      <td>Basic FrontEnd</td>
+      <td>240</td>
+      <td>Desenvolvimento Dinâmico | Desenvolvimento FrontEnd | Experiência do Usuário</td>
+      <td>
+        <a href="https://microcertificado.descomplica.com.br/a8017175deaf8cf201713d658f3bcaa11ff5a6fefff15967438ba90d609e336e.png" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Basic FrontEnd" title="Certificado Basic FrontEnd" width="40" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <a href="https://descomplica.com.br/" target="_blank" rel="noopener noreferrer">
+          <img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" />
+        </a>
+      </td>
+      <td>Programmer</td>
+      <td>160</td>
+      <td>Lógica de Programação | Empreendedorismo e Criação de Novos Negócios</td>
+      <td>
+        <a href="https://microcertificado.descomplica.com.br/9fa90c51c69de67bbbbcb67417a5071564436289bd803ebf67705ac5ed96bc72.png" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Programmer" title="Certificado Programmer" width="40" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <a href="https://descomplica.com.br/" target="_blank" rel="noopener noreferrer">
+          <img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" />
+        </a>
+      </td>
+      <td>Object-Oriented Developer</td>
+      <td>240</td>
+      <td>Programação 1 | Estruturas de Dados para Sistemas Inteligentes | Design de Software</td>
+      <td>
+        <a href="https://microcertificado.descomplica.com.br/b91da76f757723a10e58831d3c458d25707f291c0e4f3f36210532d8e6a25003.png" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Object-Oriented Developer" title="Certificado Object-Oriented Developer" width="40" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <a href="https://descomplica.com.br/" target="_blank" rel="noopener noreferrer">
+          <img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" />
+        </a>
+      </td>
+      <td>BackEnd Developer</td>
+      <td>160</td>
+      <td>Desenvolvimento de Aplicações de Banco de Dados | Prática Integradora Tecnologias Disruptivas</td>
+      <td>
+        <a href="https://microcertificado.descomplica.com.br/b28fd72d88d876719ee45853eb45d973db52b67051f0730b33c78001e2860110.png" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado BackEnd Developer" title="Certificado BackEnd Developer" width="40" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <a href="https://descomplica.com.br/" target="_blank" rel="noopener noreferrer">
+          <img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" />
+        </a>
+      </td>
+      <td>FrontEnd Developer</td>
+      <td>240</td>
+      <td>Arquitetura de Computadores do Século XXI | Desenvolvimento Mobile | Programação II</td>
+      <td>
+        <a href="https://microcertificado.descomplica.com.br/e320e066967a7f97dee2ef2a128ced2ba6095065d47b2629662d34a50b2d5205.png" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado FrontEnd Developer" title="Certificado FrontEnd Developer" width="40" />
+        </a>
+      </td>
+    </tr>
   <tr align="center">
-    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
-    <td>Basic FrontEnd</td>
-    <td>240</td>
-    <td>Desenvolvimento Dinâmico | Desenvolvimento FrontEnd | Experiência do Usuário</td>
-    <td><a href="https://microcertificado.descomplica.com.br/a8017175deaf8cf201713d658f3bcaa11ff5a6fefff15967438ba90d609e336e.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Basic FrontEnd" title="Certificado Basic FrontEnd" width="40" /></a></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
-    <td>Programmer</td>
-    <td>160</td>
-    <td>Lógica de Programação | Empreendedorismo e Criação de Novos Negócios</td>
-    <td><a href="https://microcertificado.descomplica.com.br/9fa90c51c69de67bbbbcb67417a5071564436289bd803ebf67705ac5ed96bc72.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Programmer" title="Certificado Programmer" width="40" /></a></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
-    <td>Object-Oriented Developer</td>
-    <td>240</td>
-    <td>Programação 1 | Estruturas de Dados para Sistemas Inteligentes | Design de Software</td>
-    <td><a href="https://microcertificado.descomplica.com.br/b91da76f757723a10e58831d3c458d25707f291c0e4f3f36210532d8e6a25003.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Object-Oriented Developer" title="Certificado Object-Oriented Developer" width="40" /></a></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
-    <td>BackEnd Developer</td>
-    <td>160</td>
-    <td>Desenvolvimento de Aplicações de Banco de Dados | Prática Integradora Tecnologias Disruptivas</td>
-    <td><a href="https://microcertificado.descomplica.com.br/b28fd72d88d876719ee45853eb45d973db52b67051f0730b33c78001e2860110.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado BackEnd Developer" title="Certificado BackEnd Developer" width="40" /></a></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
-    <td>FrontEnd Developer</td>
-    <td>240</td>
-    <td>Arquitetura de Computadores do Século XXI | Desenvolvimento Mobile | Programação II</td>
-    <td><a href="https://microcertificado.descomplica.com.br/e320e066967a7f97dee2ef2a128ced2ba6095065d47b2629662d34a50b2d5205.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado FrontEnd Developer" title="Certificado FrontEnd Developer" width="40" /></a></td>
-  </tr>
-  <tr align="center">
-    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td>
+      <a href="https://descomplica.com.br/" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" />
+      </a>
+    </td>
     <td>Full Stack Developer</td>
     <td>160</td>
     <td>Framework | Prática Integradora Desenvolvimento de Apps</td>
-    <td><a href="https://microcertificado.descomplica.com.br/e94e015ceb081a32370793d9b65baf92469d71b0d9ea6761678b6bd8861e2a98.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Full Stack Developer" title="Certificado Full Stack Developer" width="40" /></a></td>
+    <td>
+      <a href="https://microcertificado.descomplica.com.br/e94e015ceb081a32370793d9b65baf92469d71b0d9ea6761678b6bd8861e2a98.png" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Full Stack Developer" title="Certificado Full Stack Developer" width="40" />
+      </a>
+    </td>
   </tr>
   <tr align="center">
     <td>
-      
-[![Descomplica](./assets/icons/Descomplica.svg)](https://descomplica.com.br/)
+      <a href="https://descomplica.com.br/" target="_blank" rel="noopener noreferrer">
+        <img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" />
+      </a>
     </td>
     <td>DevOps Strategist</td>
     <td>240</td>
     <td>DevOps I | DevOps II | Prática Integradora Computação em Nuvem</td>
-    <td><a href="https://microcertificado.descomplica.com.br/cfffa68e2b348c948efc86ca1d7eb416858958502085497c43984713be9fa577.png" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado DevOps Strategist" title="Certificado DevOps Strategist" width="40" /></a></td>
+    <td>
+      <a href="https://microcertificado.descomplica.com.br/cfffa68e2b348c948efc86ca1d7eb416858958502085497c43984713be9fa577.png" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado DevOps Strategist" title="Certificado DevOps Strategist" width="40" />
+      </a>
+    </td>
   </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
