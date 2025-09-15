@@ -145,7 +145,7 @@
   <tr align="center">
     <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
     <td>BackEnd Developer</td>
-    <td>240</td>
+    <td>160</td>
     <td>Desenvolvimento de Aplicações de Banco de Dados | Prática Integradora Tecnologias Disruptivas</td>
     <td><a href="https://microcertificado.descomplica.com.br/b28fd72d88d876719ee45853eb45d973db52b67051f0730b33c78001e2860110.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado BackEnd Developer" title="Certificado BackEnd Developer" width="40" /></a></td>
   </tr>
