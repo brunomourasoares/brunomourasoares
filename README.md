@@ -144,10 +144,31 @@
   </tr>
   <tr align="center">
     <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td>BackEnd Developer</td>
+    <td>240</td>
+    <td>Desenvolvimento de Aplicações de Banco de Dados | Prática Integradora Tecnologias Disruptivas</td>
+    <td><a href="https://microcertificado.descomplica.com.br/b28fd72d88d876719ee45853eb45d973db52b67051f0730b33c78001e2860110.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado BackEnd Developer" title="Certificado BackEnd Developer" width="40" /></a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
     <td>FrontEnd Developer</td>
     <td>240</td>
     <td>Arquitetura de Computadores do Século XXI | Desenvolvimento Mobile | Programação II</td>
-    <td><a href="https://microcertificado.descomplica.com.br/e320e066967a7f97dee2ef2a128ced2ba6095065d47b2629662d34a50b2d5205.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Object-Oriented Developer" title="Certificado Object-Oriented Developer" width="40" /></a></td>
+    <td><a href="https://microcertificado.descomplica.com.br/e320e066967a7f97dee2ef2a128ced2ba6095065d47b2629662d34a50b2d5205.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado FrontEnd Developer" title="Certificado FrontEnd Developer" width="40" /></a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td>Full Stack Developer</td>
+    <td>160</td>
+    <td>Framework | Prática Integradora Desenvolvimento de Apps</td>
+    <td><a href="https://microcertificado.descomplica.com.br/e94e015ceb081a32370793d9b65baf92469d71b0d9ea6761678b6bd8861e2a98.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado Full Stack Developer" title="Certificado Full Stack Developer" width="40" /></a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://descomplica.com.br/" target="_blank"><img src="./assets/icons/Descomplica.svg" alt="Faculdade Descomplica" title="Faculdade Descomplica" width="40" /></a></td>
+    <td>DevOps Strategist</td>
+    <td>240</td>
+    <td>DevOps I | DevOps II | Prática Integradora Computação em Nuvem</td>
+    <td><a href="https://microcertificado.descomplica.com.br/cfffa68e2b348c948efc86ca1d7eb416858958502085497c43984713be9fa577.png" target="_blank"><img src="https://img.icons8.com/papercut/60/certificate.png" alt="Certificado DevOps Strategist" title="Certificado DevOps Strategist" width="40" /></a></td>
   </tr>
   <tr align="center">
     <td><a href="https://dio.me/" target="_blank"><img src="./assets/icons/Dio.svg" alt="DIO" title="Digital Innovation One" width="50" /></a></td>
