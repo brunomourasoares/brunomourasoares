@@ -1,12 +1,12 @@
 <!-- ======================= HEADER ======================= -->
-<h1 id="inicio" align="center">Olá, eu sou Bruno Moura 👋</h1>
-<p align="center">Transformando ideias em código e aventuras em software 🚀</p>
+<div id="inicio" align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/a4bba93a5a00bd7556cdd43372a18b0f21174b5e/assets/banner_programacao.svg" width="600" />
-</p>
+  # Olá, eu sou Bruno Moura 👋</h1>
+  #### Transformando idéias em código e soluções em software 🚀
 
----
+  ![Banner](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1c7993ad2ef13d167df87593285a589e0aba0017/assets/banner_programacao.svg)
+
+</div>
 
 ## 🧙‍♂️ Ficha de Desenvolvedor
 
@@ -26,44 +26,38 @@
 }
 ```
 
----
-
 ## ⚡ Tech Stack
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-FF3030?style=for-the-badge&logo=mssql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle Database-FF3030?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</div>
-
----
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-FF3030?style=for-the-badge&logo=mssql&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-FF3030?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 💼 Projetos em Destaque
 
@@ -87,44 +81,33 @@
 [![Projeto11](https://img.shields.io/badge/PHP-Projeto11-777bb4?style=for-the-badge&logo=php&logoColor=777bb4)](https://github.com/brunomourasoares/projeto11)
 [![Projeto12](https://img.shields.io/badge/PHP-Projeto12-777bb4?style=for-the-badge&logo=php&logoColor=777bb4)](https://github.com/brunomourasoares/projeto12)
 
----
-
 ## 📈 Linguagens Mais Utilizadas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=10&show_icons=true&hide_title=true&theme=github_dark"/>
-
----
+![LinguagensMaisUtilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=10&show_icons=true&hide_title=true&theme=github_dark)
 
 ## 📬 Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomourasoares@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomsoares/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomsoares/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunomourasoares/)
-[![Portifolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://brunomourasoares.github.io/portfolio/index.html)
-
----
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://brunomourasoares.github.io/portfolio/index.html)
 
 ## 🏅 Certificações
 
 *Em breve...*
 
----
-
 ## 🗺️ Roadmap
 
-- **2023:** 🚀 **Início Backend** — Primeiros passos no backend, lógica de programação, Java, boas práticas.
-- **2024:** 💻 **Projetos Fullstack** — Desenvolvimento de projetos fullstack, integração de APIs, front-end e outras linguagens.
-- **2025:** 🏗️ **Arquitetura e Design Pattern** — Foco em arquitetura e design patterns.
+- **2008:** 📌 **Início na programação** — Primeiros passos com a programação, lógica de programação em portugol, Java 6, MySQL.
+- **2023:** 🚀 **Retomando o sonho** — Revisando e atualizando lógica de programação, java, spring framework, html, css, javascript, bancos de dados, linux, git, github, aprendendo sobre agilidade e boas práticas.
+- **2024:** 💻 **Fortalecendo os conhecimentos** — Início da graduação em ADS, desenvolvendo projetos fullstack, integração de APIs, front-end, infraestrutura como código, conhecimentos sobre IA e outras linguagens de programação.
+- **2025:** 🏗️ **Arquitetura e Design Pattern** — Foco em arquitetura, design patterns, clean code e novos frameworks.
 - **2026:** 🌟 **Open Source** — Contribuições em projetos open source e comunidade.
 - **2027:** 🎓 **Mentoria** — Mentoria para novos devs e palestras em eventos.
-
----
 
 ## 🌟 Contribuições Open Source
 
 - **Projeto Open Source 1** — Ainda não houve contribuição.
-
----
 
 ## 💬 Depoimentos
 
@@ -133,18 +116,11 @@
 > — **Leandro Lopes Martins**  
 > *Analista de Infraestrutura e Operações de TI Sênior no Itaú Unibanco*
 
----
-
 ## 📝 Blogs e Artigos
 
-<div align="center">
-
-| [Artigo 1](#) | [Artigo 2](#) | [Artigo 3](#) |
-|:---:|:---:|:---:|
-| <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> |
-
-</div>
-
+| [Artigo 1](#) | [Artigo 2](#) | [Artigo 3](#) | [Artigo 4](#) | [Artigo 5](#) |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> |
 
 ## 🏫 Formação, Cursos e Bootcamps
 
@@ -185,14 +161,23 @@
 | [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação SQL Database Specialist | 72 | MySQL \| PostgreSQL | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/A1ZU10NH) |
 | [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação PHP Experience | 40 | PHP \| Laravel | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/DVDZVOG4) |
 
----
-
-<p align="center">
-  <i>"Codar, aprender, evoluir e inspirar. O ciclo nunca termina, só melhora. ⚔️🚀"</i>
-</p>
-
----
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunomourasoares&style=flat-square&color=blue" alt="Profile views"/>
+
+  ### *"Codar, aprender, evoluir e inspirar. O ciclo nunca termina, só melhora."*
+  
+  <br>
+
+  ![Contador](https://komarev.com/ghpvc/?username=brunomourasoares&style=for-the-badge&color=blue&abbreviated=true&label=Contador%20de%20Visitas&color=blue)
+
+</div>
+
+<br>
+
+<div align="right">
+  <a href="#inicio">
+
+  ![Seta](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/afabe44689e266c534e0be6eb4a6dcd83e432ba1/assets/seta.svg)
+
+  </a>
 </div>
