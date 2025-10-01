@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/a4bba93a5a00bd7556cdd43372a18b0f21174b5e/assets/banner_programacao.svg" width="600" />
 </p>
 
+---
+
 ## 🧙‍♂️ Ficha de Desenvolvedor
 
 ```json
@@ -23,6 +25,8 @@
   "status": "Em constante evolucao 🚀"
 }
 ```
+
+---
 
 ## ⚡ Tech Stack
 
@@ -59,6 +63,8 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
+---
+
 ## 💼 Projetos em Destaque
 
 ### Java
@@ -81,9 +87,13 @@
 [![Projeto11](https://img.shields.io/badge/PHP-Projeto11-777bb4?style=for-the-badge&logo=php&logoColor=777bb4)](https://github.com/brunomourasoares/projeto11)
 [![Projeto12](https://img.shields.io/badge/PHP-Projeto12-777bb4?style=for-the-badge&logo=php&logoColor=777bb4)](https://github.com/brunomourasoares/projeto12)
 
+---
+
 ## 📈 Linguagens Mais Utilizadas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=10&show_icons=true&hide_title=true&theme=github_dark"/>
+
+---
 
 ## 📬 Contato
 
@@ -102,9 +112,13 @@
   </a>
 </div>
 
+---
+
 ## 🏅 Certificações
 
 *Em breve...*
+
+---
 
 ## 🗺️ Roadmap
 
@@ -114,9 +128,13 @@
 - **2026:** 🌟 **Open Source** — Contribuições em projetos open source e comunidade.
 - **2027:** 🎓 **Mentoria** — Mentoria para novos devs e palestras em eventos.
 
+---
+
 ## 🌟 Contribuições Open Source
 
 - **Projeto Open Source 1** — Ainda não houve contribuição.
+
+---
 
 ## 💬 Depoimentos
 
@@ -124,6 +142,8 @@
 >
 > — **Leandro Lopes Martins**  
 > *Analista de Infraestrutura e Operações de TI Sênior no Itaú Unibanco*
+
+---
 
 ## 📝 Blogs e Artigos
 
@@ -134,6 +154,46 @@
 | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> |
 
 </div>
+
+
+## 🏫 Formação, Cursos e Bootcamps
+
+**Graduação:**
+- Análise e Desenvolvimento de Sistemas - Faculdade Descomplica - 2026
+- Pós Graduação em Engenharia de Software - Faculdade Descomplica - 2027
+
+| Plataforma | Curso | Horas | Tecnologias | Certificado |
+|:---:|:---:|:---:|:---:|:---:|
+| [![Descomplica](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/c2e286b547d19555246a3b85bde1a046469d3d93/assets/icons/Descomplica.svg)](https://descomplica.com.br/) | Basic FrontEnd | 240 | Desenvolvimento Dinâmico \| Desenvolvimento FrontEnd \| Experiência do Usuário | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://microcertificado.descomplica.com.br/a8017175deaf8cf201713d658f3bcaa11ff5a6fefff15967438ba90d609e336e.png) |
+| [![Descomplica](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/c2e286b547d19555246a3b85bde1a046469d3d93/assets/icons/Descomplica.svg)](https://descomplica.com.br/) | Programmer | 160 | Lógica de Programação \| Empreendedorismo e Criação de Novos Negócios | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://microcertificado.descomplica.com.br/9fa90c51c69de67bbbbcb67417a5071564436289bd803ebf67705ac5ed96bc72.png) |
+| [![Descomplica](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/c2e286b547d19555246a3b85bde1a046469d3d93/assets/icons/Descomplica.svg)](https://descomplica.com.br/) | Object-Oriented Developer | 240 | Programação 1 \| Estruturas de Dados para Sistemas Inteligentes \| Design de Software | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://microcertificado.descomplica.com.br/b91da76f757723a10e58831d3c458d25707f291c0e4f3f36210532d8e6a25003.png) |
+| [![Descomplica](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/c2e286b547d19555246a3b85bde1a046469d3d93/assets/icons/Descomplica.svg)](https://descomplica.com.br/) | BackEnd Developer | 160 | Desenvolvimento de Aplicações de Banco de Dados \| Prática Integradora Tecnologias Disruptivas | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://microcertificado.descomplica.com.br/b28fd72d88d876719ee45853eb45d973db52b67051f0730b33c78001e2860110.png) |
+| [![Descomplica](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/c2e286b547d19555246a3b85bde1a046469d3d93/assets/icons/Descomplica.svg)](https://descomplica.com.br/) | FrontEnd Developer | 240 | Arquitetura de Computadores do Século XXI \| Desenvolvimento Mobile \| Programação II | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://microcertificado.descomplica.com.br/e320e066967a7f97dee2ef2a128ced2ba6095065d47b2629662d34a50b2d5205.png) |
+| [![Descomplica](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/c2e286b547d19555246a3b85bde1a046469d3d93/assets/icons/Descomplica.svg)](https://descomplica.com.br/) | Full Stack Developer | 160 | Framework \| Prática Integradora Desenvolvimento de Apps | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://microcertificado.descomplica.com.br/e94e015ceb081a32370793d9b65baf92469d71b0d9ea6761678b6bd8861e2a98.png) |
+| [![Descomplica](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/c2e286b547d19555246a3b85bde1a046469d3d93/assets/icons/Descomplica.svg)](https://descomplica.com.br/) | DevOps Strategist | 240 | DevOps I \| DevOps II \| Prática Integradora Computação em Nuvem | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://microcertificado.descomplica.com.br/cfffa68e2b348c948efc86ca1d7eb416858958502085497c43984713be9fa577.png) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação Java Developer | 76 | Java \| Spring | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/D7FDC409) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Bootcamp Spring Framework Experience | 50 | Java \| Spring | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/8DBCF0E3) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Bootcamp Santander Fullstack | 115 | Java \| Javascript \| Angular \| SQL \| NoSQL | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/8545B37B) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Bootcamp GFT e AWS | 65 | Java \| Spring \| SQL \| NoSQL \| AWS | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/C1695DE3) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Bootcamp Banco PAN Java Developer | 114 | Java \| Spring \| SQL \| NoSQL | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/E73819D3) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação SQL Database Specialist | 72 | MySQL \| PostgreSQL \| MongoDB | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação JavaScript Developer | 39 | HTML5 \| CSS3 \| JS | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/544B6C1D) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação HTML Web Developer | 21 | HTML5 | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/9F89C81A) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação CSS Web Developer | 48 | HTML5 \| CSS3 | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/4E05D222) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação Scrum Master | 22 | Scrum \| Agile | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/25172941) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação CI/CD | 13 | Git \| GitLab \| GCP | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/3D45867E) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação ChatGPT for Devs | 18 | ChatGPT | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/9DB6FD3F) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação Linux Fundamentals | 23 | Ubuntu Server \| Desktop | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/OWGTVMRV) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação GitHub Certification | 10 | GitHub | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/JMZ32OW6) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Bootcamp Santander 2024 - Preparatório Certificação AWS | 35 | AWS | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/TRXZVUUG) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação Node.js Fundamentals | 30 | JavaScript \| Node.js \| Express.js \| Fastify | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/BRUJ61HZ) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação TypeScript Full Stack Developer | 44 | JavaScript \| TypeScript \| Node.js \| React | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/OUOJYDZQ) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação Docker Fundamentals | 15 | Linux \| Docker | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/AQRKMKMI) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Bootcamp Claro - Java com Spring Boot | 75 | Java \| Spring Boot \| Angular | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/NNO7YLKA) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Bootcamp Microsoft Copilot | 29 | JavaScript \| TypeScript \| Node.js | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/IWEPMXIW) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Bootcamp Deal - Spring e Angular | 91 | Java \| Spring Boot \| Angular | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/U5B7WCFP) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação SQL Database Specialist | 72 | MySQL \| PostgreSQL | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/A1ZU10NH) |
+| [![DIO](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/dd850ad5c8902bf1c2fbe3dff8d35dec810da6e6/assets/icons/Dio.svg)](https://dio.me/) | Formação PHP Experience | 40 | PHP \| Laravel | [![Certificado](https://img.icons8.com/papercut/60/certificate.png)](https://www.dio.me/certificate/DVDZVOG4) |
 
 ---
 
