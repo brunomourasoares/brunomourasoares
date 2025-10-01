@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180">
+  <!-- Fundo e barra de título -->
+  <rect width="600" height="180" fill="#2c001e"/>
+  <rect width="600" height="30" fill="#300a24"/>
+
+  <!-- Botões de controle no estilo Ubuntu, alinhados à direita -->
+  <g transform="translate(526,6)">
+    <!-- Close -->
+    <rect x="0" y="0" width="16" height="16" rx="2" ry="2" fill="#E95420"/>
+    <text x="8" y="12" text-anchor="middle" font-family="Ubuntu, sans-serif" font-size="12" fill="#ffffff">×</text>
+    <!-- Minimize -->
+    <rect x="24" y="0" width="16" height="16" rx="2" ry="2" fill="#AAAAAA"/>
+    <text x="32" y="12" text-anchor="middle" font-family="Ubuntu, sans-serif" font-size="12" fill="#2c001e">−</text>
+    <!-- Maximize -->
+    <rect x="48" y="0" width="16" height="16" rx="2" ry="2" fill="#AAAAAA"/>
+    <text x="56" y="12" text-anchor="middle" font-family="Ubuntu, sans-serif" font-size="12" fill="#2c001e">☐</text>
+  </g>
+
+  <!-- Texto do terminal -->
+  <text x="20" y="60" font-family="Ubuntu Mono, monospace" font-size="18" fill="#ffffff">
+    System.out.println("Bem-vindo");
+  </text>
+  <text x="20" y="90" font-family="Ubuntu Mono, monospace" font-size="18" fill="#ffffff">
+    Console.WriteLine("ao meu GitHub");
+  </text>
+  <text x="20" y="120" font-family="Ubuntu Mono, monospace" font-size="18" fill="#ffffff">
+    printf("fique à vontade e");
+  </text>
+  <text x="20" y="150" font-family="Ubuntu Mono, monospace" font-size="18" fill="#ffffff">
+    console.log("deixe um comentário!");<tspan id="cursor" font-weight="bold">█</tspan>
+  </text>
+
+  <!-- Animação do cursor -->
+  <style>
+    #cursor {
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+</svg>
