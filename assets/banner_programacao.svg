@@ -1,0 +1,12 @@
+<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo transparente removido -->
+  <!-- Barra superior do terminal VS Code -->
+  <rect x="0" y="0" width="600" height="28" fill="#21252B"/>
+  <!-- Área do terminal -->
+  <rect x="0" y="28" width="600" height="92" fill="#181818"/>
+    <text x="60" y="70" font-size="28" fill="#FFFFFF" font-family="monospace">$</text>
+  <text x="100" y="70" font-size="28" fill="#CCCCCC" font-family="monospace">console.log('Bem-vindo!')</text>
+  <rect x="440" y="48" width="12" height="32" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
