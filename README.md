@@ -164,7 +164,7 @@
 
 <div align="center">
 
-  ### *"Codar, aprender, evoluir e inspirar. O ciclo nunca termina, só melhora."*
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=Codar,%20aprender,%20evoluir%20e%20inspirar.%20Nunca%20termina,%20só%20melhora.&author=Bruno%20M.%20Soares)](https://github.com/piyushsuthar/github-readme-quotes)
   
   <br>
 
