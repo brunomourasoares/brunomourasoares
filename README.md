@@ -62,7 +62,7 @@
 ## 💼 Projetos em Destaque
 
 ### Java
-[![Projeto1](https://img.shields.io/badge/Java-Projeto1-ED8B00?style=for-the-badge&logo=java&logoColor=ED8B00)](https://github.com/brunomourasoares/projeto-1)
+[![Projeto1](https://img.shields.io/badge/Java-Launcher-ED8B00?style=for-the-badge&logo=java&logoColor=ED8B00)](https://github.com/brunomourasoares/Launcher)
 [![Projeto2](https://img.shields.io/badge/Java%20+%20Spring-Projeto2-ED8B00?style=for-the-badge&logo=java&logoColor=ED8B00)](https://github.com/brunomourasoares/projeto-2)
 [![Projeto3](https://img.shields.io/badge/Java%20+%20JavaEE-Projeto3-ED8B00?style=for-the-badge&logo=java&logoColor=ED8B00)](https://github.com/brunomourasoares/projeto-3)
 
