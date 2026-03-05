@@ -72,7 +72,7 @@
 [![Projeto6](https://img.shields.io/badge/C%23%20+%20Blazor-Projeto6-512BD4?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/brunomourasoares/projeto6)
 
 ### Node.js
-[![Projeto7](https://img.shields.io/badge/Node-Projeto7-5fa04e?style=for-the-badge&logo=node.js&logoColor=5fa04e)](https://github.com/brunomourasoares/projeto7)
+[![Email-Service](https://img.shields.io/badge/NestJS-EmailService-5fa04e?style=for-the-badge&logo=node.js&logoColor=5fa04e)](https://github.com/brunomourasoares/send-email-microservice-nestjs)
 [![Projeto8](https://img.shields.io/badge/Node-Projeto8-5fa04e?style=for-the-badge&logo=node.js&logoColor=5fa04e)](https://github.com/brunomourasoares/projeto8)
 [![Projeto9](https://img.shields.io/badge/Node-Projeto9-5fa04e?style=for-the-badge&logo=node.js&logoColor=5fa04e)](https://github.com/brunomourasoares/projeto9)
 
