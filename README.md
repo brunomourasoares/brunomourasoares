@@ -81,8 +81,9 @@
 [![Projeto12](https://img.shields.io/badge/PHP-Projeto12-777bb4?style=for-the-badge&logo=php&logoColor=777bb4)](https://github.com/brunomourasoares/projeto12)
 
 ### Web
-[![Portfolio](https://img.shields.io/badge/HTML+CSS+JS-Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://brunomourasoares.github.io/portfolio/)
-[![Braskit](https://img.shields.io/badge/HTML+CSS+JS-Braskitseg-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://brunomourasoares.github.io/braskitseg/)
+[![BrunoPortfolio](https://img.shields.io/badge/HTML%20CSS%20JS-Bruno%20Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://brunomourasoares.github.io/portfolio/)
+[![RapahaelPortfolio](https://img.shields.io/badge/HTML%20CSS%20JS-Raphael%20Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://raphafs.github.io/portfolio/)
+[![Braskit](https://img.shields.io/badge/HTML%20CSS%20JS-Braskit%20Website-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://brunomourasoares.github.io/braskitseg/)
 
 ## 📈 Linguagens Mais Utilizadas
 
