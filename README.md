@@ -72,7 +72,7 @@
 [![Projeto6](https://img.shields.io/badge/C%23%20+%20Blazor-Projeto6-512BD4?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/brunomourasoares/projeto6)
 
 ### Javascript
-[![Email-Service](https://img.shields.io/badge/NestJS-EmailService-e0234e?style=for-the-badge&logo=nestjs&logoColor=e0234e)](https://github.com/brunomourasoares/send-email-microservice-nestjs)
+[![Email-Service](https://img.shields.io/badge/NestJS-EmailService-e0234e?style=for-the-badge&logo=nestjs&logoColor=e0234e)](https://github.com/brunomourasoares/Send-Email)
 [![Projeto9](https://img.shields.io/badge/Node-Projeto9-5fa04e?style=for-the-badge&logo=node.js&logoColor=5fa04e)](https://github.com/brunomourasoares/projeto9)
 
 ### PHP
@@ -81,9 +81,9 @@
 [![Projeto12](https://img.shields.io/badge/PHP-Projeto12-777bb4?style=for-the-badge&logo=php&logoColor=777bb4)](https://github.com/brunomourasoares/projeto12)
 
 ### Web
-[![BrunoPortfolio](https://img.shields.io/badge/HTML%20CSS%20JS-Bruno%20Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://brunomourasoares.github.io/portfolio/)
+[![BrunoPortfolio](https://img.shields.io/badge/HTML%20CSS%20JS-Bruno%20Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://portfoliobms.vercel.app/)
 [![RapahaelPortfolio](https://img.shields.io/badge/HTML%20CSS%20JS-Raphael%20Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://raphafs.github.io/portfolio/)
-[![Braskit](https://img.shields.io/badge/HTML%20CSS%20JS-Braskit%20Website-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://brunomourasoares.github.io/braskitseg/)
+[![Braskit](https://img.shields.io/badge/HTML%20CSS%20JS-Braskit%20Website-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://braskitseguranca.vercel.app/)
 
 ## 📈 Linguagens Mais Utilizadas
 
