@@ -87,7 +87,7 @@
 
 ## 📈 Linguagens Mais Utilizadas
 
-![LinguagensMaisUtilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomourasoares&layout=compact&langs_count=10&show_icons=true&hide_title=true&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunomourasoares&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000&card_height=200)](https://git.io/streak-stats)
 
 ## 📬 Contato
 
