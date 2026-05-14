@@ -87,7 +87,7 @@
 
 ## 📈 Linguagens Mais Utilizadas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brunomourasoares&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunomourasoares&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000&card_height=200)](https://git.io/streak-stats)
 
 ## 📬 Contato
 
