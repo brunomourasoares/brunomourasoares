@@ -1,18 +1,27 @@
 <!-- ======================= HEADER ======================= -->
-![Typing Headline](https://coolreadme.xyz/api/typing-card?user=brunomourasoares&theme=dark&accent=%2360A5FA&lines=System.out.println("Bem-vindo");%7CConsole.WriteLine("ao%2Bmeu%2BGithub");%7Cprintf("Fique%2Bà%2Bvontade%2Be");%7Cconsole.log("deixe%2Bum%2Bcomentário");)
+![Typing Headline](https://coolreadme.xyz/api/typing-card?user=brunomourasoares&theme=dark&accent=%2360A5FA&lines=System.out.println("Bem-vindo%2Bao%2Bmeu%2BGithub");%7CConsole.WriteLine("Fique%2Bà%2Bvontade%2Be%2Bdeixe%2Bum");%7Cconsole.log("comentário,%2Btenha%2Buma%2Bboa%2Bleitura!");)
 
 ## 🧙‍♂️ Ficha de Desenvolvedor
 
 ```json
 {
   "nome": "Bruno M. Soares",
-  "profissao": "Futuro Engenheiro de Software / Full-stack",
+  "idade": 42,
+  "profissao": "Analista de Sistemas / Desenvolvedor Full-stack / Futuro Engenheiro de Software",
+  "localizacao": "Rio de Janeiro / RJ",
   "paixoes": [
+    "Familia",
+    "Tecnologia",
     "Programar",
     "Aprender",
-    "Aviação",
+    "Gatos"
+  ],
+  "hobbies": [
     "Jogar",
-    "Assistir Séries"
+    "Ler Manhwa/Mangás",
+    "Assistir Animes",
+    "Assistir Séries",
+    "Aviação",
   ],
   "status": "Em constante evolução"
 }
