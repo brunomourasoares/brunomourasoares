@@ -1,63 +1,30 @@
 <!-- ======================= HEADER ======================= -->
-<div id="inicio" align="center">
-
-  # Olá, eu sou Bruno Moura 👋</h1>
-  #### Transformando idéias em código e soluções em software 🚀
-
-  ![Banner](https://raw.githubusercontent.com/brunomourasoares/brunomourasoares/1c7993ad2ef13d167df87593285a589e0aba0017/assets/banner_programacao.svg)
-
-</div>
+![Typing Headline](https://coolreadme.xyz/api/typing-card?user=brunomourasoares&theme=dark&accent=%2360A5FA&lines=System.out.println("Bem-vindo");%7CConsole.WriteLine("ao%2Bmeu%2BGithub");%7Cprintf("Fique%2Bà%2Bvontade%2Be");%7Cconsole.log("deixe%2Bum%2Bcomentário");)
 
 ## 🧙‍♂️ Ficha de Desenvolvedor
 
 ```json
 {
-  "nome": "Bruno Moura",
-  "profissao": "Futuro Engenheiro de Software / Backend & Fullstack",
-  "paixoes": ["Programar", "Aprender", "Aviacao", "Jogar", "Assistir Series"],
-  "habilidades": {
-    "linguagens": ["C#", ".NET", "Java", "PHP", "JavaScript"],
-    "frameworks": ["Spring Boot", "Laravel", "Express", "React", "Next", "Nest"],
-    "infraestrutura": ["Linux", "Kubernetes", "Docker"],
-    "bancodedados": ["PostgreSQL", "MySQL", "MSSQL", "Oracle Database"],
-    "ferramentas": ["Git", "GitHub", "GitLab", "Kafka", "RabbitMQ", "Grafana", "Tailwind", "Bootstrap", "Jira", "Trello"]
-  },
-  "status": "Em constante evolucao 🚀"
+  "nome": "Bruno M. Soares",
+  "profissao": "Futuro Engenheiro de Software / Full-stack",
+  "paixoes": [
+    "Programar",
+    "Aprender",
+    "Aviação",
+    "Jogar",
+    "Assistir Séries"
+  ],
+  "status": "Em constante evolução"
 }
 ```
 
 ## ⚡ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJs](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-FF3030?style=for-the-badge&logo=mssql&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle%20Database-FF3030?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<pre>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" title="Javascript" alt="Javascript" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" title="Typescript" alt="Typescript" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" alt="Node.js" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="50" title="Fastify" alt="Fastify" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" title="NestJS" alt="NestJS" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="50" title="Jest" alt="Jest" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50" title="Prisma" alt="Prisma" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" title="React" alt="React" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" alt="Next.js" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" title="Angular" alt="Angular" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" title="Java" alt="Java" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" title="Spring Framework" alt="Spring Framework" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="50" title="Tomcat" alt="Tomcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="50" title="JUnit5" alt="JUnit5" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" title="Quarkus" alt="Quarkus" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" title="C#" alt="C#" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="50" title="Entity Framework Core" alt="Entity Framework Core" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" title="PHP" alt="PHP" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" title="Laravel" alt="Laravel" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" title="TailwindCSS" alt="TailwindCSS" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="50" title="Apache Kafka" alt="Kafka" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="50" title="RabbitMQ" alt="RabbitMQ" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" alt="GraphQL" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" alt="PostgreSQL" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" title="Microsoft SQL Server" alt="Microsoft SQL Server" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" title="Oracle Database" alt="Oracle Database" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" title="Redis" alt="Redis" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" title="Git" alt="Git" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub" alt="GitHub" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="50" title="GitLab" alt="GitLab" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux Server" alt="Linux Server" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" title="Docker" alt="Docker" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" title="Kubernetes" alt="Kubernetes" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" title="Terraform" alt="Terraform" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" title="Vercel" alt="Vercel" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" title="Supabase" alt="Supabase" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="50" title="Swagger" alt="Swagger" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="50" title="Grafana" alt="Grafana" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="50" title="Prometheus" alt="Prometheus" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg" width="50" title="New Relic" alt="New Relic" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="50" title="Salesforce" alt="Salesforce" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="50" title="Trello" alt="Trello" />
+</pre>
 
 ## 💼 Projetos em Destaque
 
@@ -85,16 +52,14 @@
 [![RapahaelPortfolio](https://img.shields.io/badge/HTML%20CSS%20JS-Raphael%20Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://raphafs.github.io/portfolio/)
 [![Braskit](https://img.shields.io/badge/HTML%20CSS%20JS-Braskit%20Website-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://braskitseguranca.vercel.app/)
 
-## 📈 Linguagens Mais Utilizadas
+## 📈 Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=brunomourasoares&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000&card_height=200)](https://git.io/streak-stats)
+![Cat Streak](https://coolreadme.xyz/api/cat-card?user=brunomourasoares&style=compact)
 
 ## 📬 Contato
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomourasoares@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomsoares/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunomourasoares/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://portfoliobms.vercel.app/)
+<pre><a href="mailto:brunomourasoares@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/353812/google-gmail.svg" width="54" title="E-mail" alt="E-mail" /></a>  <a href="https://www.linkedin.com/in/brunomsoares/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="54" title="LinkedIn" alt="LinkedIn" /></a>  <a href="https://www.instagram.com/brunomourasoares/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="54" title="Instagram" alt="Instagram" /></a>  <a href="https://portfoliobms.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/260964/portfolio.svg" width="54" title="Portfolio" alt="Portfolio" />
+</a></pre>
 
 ## 🏅 Certificações
 
@@ -127,6 +92,8 @@
 | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> |
 
 ## 🏫 Formação, Cursos e Bootcamps
+
+![Experience](https://coolreadme.xyz/api/experience-card?user=brunomourasoares&theme=dark&accent=%2360A5FA&entries=Faculdade%20Descomplica%7CAnalise%20e%20Desenvolvimento%20de%20Sistemas%7C2024%E2%80%94Atualmente%7C%3B%3BOpenAI%7CML%20Intern%7C2022%E2%80%942023%7C%3B%3BMIT%7CBSc%20Computer%20Science%7C2018%E2%80%942022%7C)
 
 **Graduação:**
 - Análise e Desenvolvimento de Sistemas - Faculdade Descomplica - 2026
