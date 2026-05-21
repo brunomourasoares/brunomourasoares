@@ -80,8 +80,7 @@
 - **2023:** 🚀 **Retomando o sonho** — Revisando e atualizando lógica de programação, java, spring framework, html, css, javascript, bancos de dados, linux, git, github, aprendendo sobre agilidade e boas práticas.
 - **2024:** 💻 **Fortalecendo os conhecimentos** — Início da graduação em ADS, desenvolvendo projetos fullstack, integração de APIs, front-end, infraestrutura como código, conhecimentos sobre IA e outras linguagens de programação.
 - **2025:** 🏗️ **Arquitetura e Design Pattern** — Foco em arquitetura, design patterns, clean code e novos frameworks.
-- **2026:** 🌟 **Open Source** — Contribuições em projetos open source e comunidade.
-- **2027:** 🎓 **Mentoria** — Mentoria para novos devs e palestras em eventos.
+- **2026:** 🌟 **Pós Graduação e Aprofundamento em IA** — Início da Pós graduação em Engenharia de Software e melhorar os conhecimentos em IA.
 
 ## 🌟 Contribuições Open Source
 
@@ -89,16 +88,10 @@
 
 ## 💬 Depoimentos
 
-> "Recomento o Brunão demais, sem sombra de dúvidas um ótimo parceiro de time camarada para todas as batalhas!"
+> "Recomendo o Brunão demais, sem sombra de dúvidas um ótimo parceiro de time camarada para todas as batalhas!"
 >
-> — **Leandro Lopes Martins**  
+> — [Leandro Lopes Martins](https://www.linkedin.com/in/leandro-lopes-martins/)
 > *Analista de Infraestrutura e Operações de TI Sênior no Itaú Unibanco*
-
-## 📝 Blogs e Artigos
-
-| [Artigo 1](#) | [Artigo 2](#) | [Artigo 3](#) | [Artigo 4](#) | [Artigo 5](#) |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> | <img src="https://dummyimage.com/150x150/2196F3/ffffff?text=Em+Breve" width="150"/> |
 
 ## 🏫 Formação, Cursos e Bootcamps
 
