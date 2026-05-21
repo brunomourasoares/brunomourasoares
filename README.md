@@ -93,8 +93,6 @@
 
 ## 🏫 Formação, Cursos e Bootcamps
 
-![Experience](https://coolreadme.xyz/api/experience-card?user=brunomourasoares&theme=dark&accent=%2360A5FA&entries=Faculdade%20Descomplica%7CAnalise%20e%20Desenvolvimento%20de%20Sistemas%7C2024%E2%80%94Atualmente%7C%3B%3BOpenAI%7CML%20Intern%7C2022%E2%80%942023%7C%3B%3BMIT%7CBSc%20Computer%20Science%7C2018%E2%80%942022%7C)
-
 **Graduação:**
 - Análise e Desenvolvimento de Sistemas - Faculdade Descomplica - 2026
 - Pós Graduação em Engenharia de Software - Faculdade Descomplica - 2027
