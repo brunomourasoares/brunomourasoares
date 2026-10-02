@@ -1,6 +1,4 @@
 <!-- ======================= HEADER ======================= -->
-![Typing Headline](https://coolreadme.xyz/api/typing-card?user=brunomourasoares&theme=dark&accent=%2360A5FA&lines=System.out.println("Bem-vindo%2Bao%2Bmeu%2BGithub");%7CConsole.WriteLine("Fique%2Bà%2Bvontade%2Be%2Bdeixe%2Bum");%7Cconsole.log("comentário,%2Btenha%2Buma%2Bboa%2Bleitura!");)
-
 ## 🧙‍♂️ Ficha de Desenvolvedor
 
 ```json
@@ -57,13 +55,9 @@
 [![Projeto12](https://img.shields.io/badge/PHP-Projeto12-777bb4?style=for-the-badge&logo=php&logoColor=777bb4)](https://github.com/brunomourasoares/projeto12)
 
 ### Web
-[![BrunoPortfolio](https://img.shields.io/badge/HTML%20CSS%20JS-Bruno%20Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://portfoliobms.vercel.app/)
+[![BrunoPortfolio](https://img.shields.io/badge/Next.js-Bruno%20Portfolio-e34f26?style=for-the-badge&logo=next.js&logoColor=000000)](https://portfoliobms.vercel.app/)
 [![RapahaelPortfolio](https://img.shields.io/badge/HTML%20CSS%20JS-Raphael%20Portfolio-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://raphafs.github.io/portfolio/)
-[![Braskit](https://img.shields.io/badge/HTML%20CSS%20JS-Braskit%20Website-e34f26?style=for-the-badge&logo=html5&logoColor=e34f26)](https://braskitseguranca.vercel.app/)
-
-## 📈 Streaks
-
-![Cat Streak](https://coolreadme.xyz/api/cat-card?user=brunomourasoares&style=compact)
+[![Braskit](https://img.shields.io/badge/Angular-Braskit%20Website-e34f26?style=for-the-badge&logo=angular&logoColor=dd0031)](https://braskitseguranca.vercel.app/)
 
 ## 📬 Contato
 
